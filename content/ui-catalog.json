@@ -1,0 +1,359 @@
+{
+  "tools": {
+    "Canvas": [
+      [
+        "Move",
+        "move"
+      ],
+      [
+        "Crop",
+        "crop"
+      ],
+      [
+        "Hand",
+        "hand"
+      ],
+      [
+        "Zoom",
+        "zoom"
+      ],
+      [
+        "Eyedropper",
+        "eyedropper"
+      ]
+    ],
+    "Selection": [
+      [
+        "Quick Selection",
+        "brush"
+      ],
+      [
+        "Rectangular Marquee",
+        "selection"
+      ],
+      [
+        "Elliptical Marquee",
+        "selection"
+      ],
+      [
+        "Lasso",
+        "pen"
+      ],
+      [
+        "Polygonal Lasso",
+        "pen"
+      ],
+      [
+        "Color Range",
+        "palette"
+      ]
+    ],
+    "Text": [
+      [
+        "Horizontal Text",
+        "text"
+      ],
+      [
+        "Vertical Text",
+        "text"
+      ]
+    ],
+    "Shape": [
+      [
+        "Rectangle",
+        "shape"
+      ],
+      [
+        "Rounded Rectangle",
+        "shape"
+      ],
+      [
+        "Ellipse",
+        "shape"
+      ],
+      [
+        "Polygon",
+        "shape"
+      ],
+      [
+        "Star",
+        "sparkle"
+      ],
+      [
+        "Line",
+        "pen"
+      ],
+      [
+        "Custom Shape",
+        "shape"
+      ]
+    ],
+    "Path": [
+      [
+        "Pen Path",
+        "pen"
+      ],
+      [
+        "Freeform Path",
+        "pen"
+      ]
+    ],
+    "Brush": [
+      [
+        "Standard Brush",
+        "brush"
+      ],
+      [
+        "Pencil",
+        "pen"
+      ],
+      [
+        "Marker",
+        "brush"
+      ],
+      [
+        "Airbrush",
+        "brush"
+      ],
+      [
+        "Watercolor",
+        "drop"
+      ],
+      [
+        "Oil Paint",
+        "brush"
+      ],
+      [
+        "Texture Brush",
+        "grain"
+      ],
+      [
+        "Eraser",
+        "brush"
+      ]
+    ],
+    "Fill": [
+      [
+        "Linear Gradient",
+        "gradient"
+      ],
+      [
+        "Radial Gradient",
+        "gradient"
+      ],
+      [
+        "Super Gradient",
+        "gradient"
+      ],
+      [
+        "Paint Bucket",
+        "drop"
+      ],
+      [
+        "Color Fill",
+        "drop"
+      ]
+    ],
+    "Retouch": [
+      [
+        "Smart Repair",
+        "sparkle"
+      ],
+      [
+        "Texture Smoothing",
+        "bandage"
+      ],
+      [
+        "Clone Stamp",
+        "brush"
+      ],
+      [
+        "Dodge",
+        "drop"
+      ],
+      [
+        "Burn",
+        "drop"
+      ],
+      [
+        "Sponge",
+        "drop"
+      ],
+      [
+        "Blur Brush",
+        "brush"
+      ],
+      [
+        "Sharpen Brush",
+        "brush"
+      ],
+      [
+        "Smudge",
+        "hand"
+      ],
+      [
+        "Liquify Push",
+        "move"
+      ]
+    ]
+  },
+  "effects": {
+    "Color Adjustments": [
+      [
+        "Basic Adjustments",
+        "sliders"
+      ],
+      [
+        "Hue & Saturation",
+        "palette"
+      ],
+      [
+        "Selective Color",
+        "palette"
+      ],
+      [
+        "Levels",
+        "levels"
+      ],
+      [
+        "Curves",
+        "curves"
+      ],
+      [
+        "Color Wheels",
+        "palette"
+      ],
+      [
+        "Replace Color",
+        "palette"
+      ],
+      [
+        "Remove Color",
+        "palette"
+      ],
+      [
+        "Fade",
+        "levels"
+      ],
+      [
+        "Smart HDR",
+        "sparkle"
+      ],
+      [
+        "Black & White",
+        "drop"
+      ],
+      [
+        "Colorize",
+        "palette"
+      ],
+      [
+        "Channel Mixer",
+        "sliders"
+      ],
+      [
+        "LUT",
+        "palette"
+      ]
+    ],
+    "Blur & Sharpen": [
+      [
+        "Gaussian Blur",
+        "drop"
+      ],
+      [
+        "Motion Blur",
+        "drop"
+      ],
+      [
+        "Focus Blur",
+        "drop"
+      ],
+      [
+        "Sharpen",
+        "sparkle"
+      ]
+    ],
+    "Distortion": [
+      [
+        "Bump Distortion",
+        "shape"
+      ],
+      [
+        "Pinch Distortion",
+        "shape"
+      ],
+      [
+        "Stretch Distortion",
+        "shape"
+      ],
+      [
+        "Twirl Distortion",
+        "curves"
+      ],
+      [
+        "Wave Distortion",
+        "curves"
+      ]
+    ],
+    "Light & Texture": [
+      [
+        "Bloom",
+        "sparkle"
+      ],
+      [
+        "Film Grain",
+        "grain"
+      ],
+      [
+        "Vignette",
+        "drop"
+      ],
+      [
+        "Pixelate",
+        "shape"
+      ]
+    ],
+    "Layer Styles": [
+      [
+        "Stroke",
+        "shape"
+      ],
+      [
+        "Shadow",
+        "shape"
+      ],
+      [
+        "Inner Shadow",
+        "shape"
+      ],
+      [
+        "Outer Glow",
+        "sparkle"
+      ],
+      [
+        "Inner Glow",
+        "sparkle"
+      ],
+      [
+        "Bevel & Emboss",
+        "shape"
+      ],
+      [
+        "Fill Style",
+        "gradient"
+      ]
+    ],
+    "Portrait": [
+      [
+        "Beauty",
+        "bandage"
+      ],
+      [
+        "Body",
+        "move"
+      ]
+    ]
+  },
+  "basis": "Current app ToolCategory.branches and EffectCatalog.groups; English app terminology"
+}

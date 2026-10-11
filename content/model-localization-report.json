@@ -1,0 +1,5958 @@
+{
+  "zh": {
+    "textObjects": 185,
+    "items": [
+      {
+        "name": "BasicInspector.BlendMode.label",
+        "source": "Blend Mode",
+        "text": "混合模式",
+        "fit": 1,
+        "width": 0.3298,
+        "budget": 0.64
+      },
+      {
+        "name": "BasicInspector.BlendMode.value",
+        "source": "Normal",
+        "text": "正常",
+        "fit": 1,
+        "width": 0.154,
+        "budget": 1.05
+      },
+      {
+        "name": "BasicInspector.center0.label",
+        "source": "Center on Canvas",
+        "text": "居中画布",
+        "fit": 1,
+        "width": 0.1896,
+        "budget": 0.79
+      },
+      {
+        "name": "BasicInspector.center1.label",
+        "source": "Center Relative to Layers",
+        "text": "对照居中",
+        "fit": 1,
+        "width": 0.1872,
+        "budget": 0.79
+      },
+      {
+        "name": "BasicInspector.dimensions.heading",
+        "source": "Dimensions",
+        "text": "尺寸",
+        "fit": 1,
+        "width": 0.1475,
+        "budget": 0.82
+      },
+      {
+        "name": "BasicInspector.H.label",
+        "source": "H",
+        "text": "高",
+        "fit": 1,
+        "width": 0.0672,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.H.value",
+        "source": "1080 px",
+        "text": "1080 px",
+        "fit": 1,
+        "width": 0.2626,
+        "budget": 0.2889
+      },
+      {
+        "name": "BasicInspector.heading",
+        "source": "Basic",
+        "text": "基础",
+        "fit": 1,
+        "width": 0.2339,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.hint",
+        "source": "Original content preserved · Strokes: 0",
+        "text": "保留原始内容 · 笔画：0",
+        "fit": 1,
+        "width": 0.6777,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Opacity.label",
+        "source": "Opacity",
+        "text": "不透明度",
+        "fit": 1,
+        "width": 0.3011,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Opacity.value",
+        "source": "100 %",
+        "text": "100 %",
+        "fit": 1,
+        "width": 0.2061,
+        "budget": 0.2267
+      },
+      {
+        "name": "BasicInspector.position.heading",
+        "source": "Position",
+        "text": "位置",
+        "fit": 1,
+        "width": 0.1468,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Rotation.label",
+        "source": "Rotation",
+        "text": "旋转",
+        "fit": 1,
+        "width": 0.1487,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Rotation.value",
+        "source": "0 °",
+        "text": "0 °",
+        "fit": 1,
+        "width": 0.0815,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.subtitle",
+        "source": "Empty Layer",
+        "text": "空白图层",
+        "fit": 1,
+        "width": 0.2789,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.W.label",
+        "source": "W",
+        "text": "宽",
+        "fit": 1,
+        "width": 0.0707,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.W.value",
+        "source": "1920 px",
+        "text": "1920 px",
+        "fit": 1,
+        "width": 0.2626,
+        "budget": 0.2889
+      },
+      {
+        "name": "BasicInspector.X.label",
+        "source": "X",
+        "text": "X",
+        "fit": 1,
+        "width": 0.0424,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.X.value",
+        "source": "0 px",
+        "text": "0 px",
+        "fit": 1,
+        "width": 0.1397,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.Y.label",
+        "source": "Y",
+        "text": "Y",
+        "fit": 1,
+        "width": 0.0417,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.Y.value",
+        "source": "0 px",
+        "text": "0 px",
+        "fit": 1,
+        "width": 0.1397,
+        "budget": 0.2
+      },
+      {
+        "name": "Effects.button.label",
+        "source": "Effects",
+        "text": "效果器",
+        "fit": 1,
+        "width": 0.2795,
+        "budget": 0.57
+      },
+      {
+        "name": "Effects.category0.label",
+        "source": "Color",
+        "text": "颜色",
+        "fit": 1,
+        "width": 0.1347,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category0.line2",
+        "source": "Adjustments",
+        "text": "调节",
+        "fit": 1,
+        "width": 0.1326,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category1.label",
+        "source": "Blur & Sharpen",
+        "text": "模糊与锐化",
+        "fit": 1,
+        "width": 0.3421,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category2.label",
+        "source": "Distortion",
+        "text": "扭曲",
+        "fit": 1,
+        "width": 0.1305,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category3.label",
+        "source": "Light & Texture",
+        "text": "光效与纹理",
+        "fit": 1,
+        "width": 0.3424,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category4.label",
+        "source": "Layer Styles",
+        "text": "图层样式",
+        "fit": 1,
+        "width": 0.2696,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category5.label",
+        "source": "Portrait",
+        "text": "人像",
+        "fit": 1,
+        "width": 0.1346,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.effect0.detail",
+        "source": "Exposure, contrast, saturation",
+        "text": "曝光、对比度、饱和度",
+        "fit": 1,
+        "width": 0.5234,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect0.name",
+        "source": "Basic Adjustments",
+        "text": "基础调节",
+        "fit": 1,
+        "width": 0.2788,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect1.detail",
+        "source": "Adjust hue and color intensity",
+        "text": "调整色相与颜色强度",
+        "fit": 1,
+        "width": 0.4722,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect1.name",
+        "source": "Hue & Saturation",
+        "text": "色相与饱和度",
+        "fit": 1,
+        "width": 0.422,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect10.detail",
+        "source": "Explore monochrome tones",
+        "text": "探索黑白层次",
+        "fit": 1,
+        "width": 0.3139,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect10.name",
+        "source": "Black & White",
+        "text": "黑白",
+        "fit": 1,
+        "width": 0.1291,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect2.detail",
+        "source": "Control eight color ranges",
+        "text": "调整八种颜色范围",
+        "fit": 1,
+        "width": 0.4168,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect2.name",
+        "source": "Selective Color",
+        "text": "选择性颜色",
+        "fit": 1,
+        "width": 0.3504,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect3.detail",
+        "source": "Black, white and midtones",
+        "text": "黑场、白场与中间调",
+        "fit": 1,
+        "width": 0.4694,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect3.name",
+        "source": "Levels",
+        "text": "色阶",
+        "fit": 1,
+        "width": 0.1383,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect4.detail",
+        "source": "RGB curves with a histogram",
+        "text": "RGB 曲线与直方图",
+        "fit": 1,
+        "width": 0.4244,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect4.name",
+        "source": "Curves",
+        "text": "曲线",
+        "fit": 1,
+        "width": 0.1334,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect5.detail",
+        "source": "Highlights, midtones, shadows",
+        "text": "高光、中间调、阴影",
+        "fit": 1,
+        "width": 0.4713,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect5.name",
+        "source": "Color Wheels",
+        "text": "色轮",
+        "fit": 1,
+        "width": 0.1377,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect6.detail",
+        "source": "Replace a chosen color range",
+        "text": "按颜色范围替换",
+        "fit": 1,
+        "width": 0.3676,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect6.name",
+        "source": "Replace Color",
+        "text": "替换颜色",
+        "fit": 1,
+        "width": 0.2796,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect7.detail",
+        "source": "Make a target color transparent",
+        "text": "将指定颜色变为透明",
+        "fit": 1,
+        "width": 0.4704,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect7.name",
+        "source": "Remove Color",
+        "text": "移除颜色",
+        "fit": 1,
+        "width": 0.2802,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect8.detail",
+        "source": "A softly faded look",
+        "text": "柔和的褪色质感",
+        "fit": 1,
+        "width": 0.3666,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect8.name",
+        "source": "Fade",
+        "text": "褪色",
+        "fit": 1,
+        "width": 0.1385,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect9.detail",
+        "source": "Balance shadows and highlights",
+        "text": "平衡阴影与高光",
+        "fit": 1,
+        "width": 0.3657,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect9.name",
+        "source": "Smart HDR",
+        "text": "智能 HDR",
+        "fit": 1,
+        "width": 0.3003,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.heading",
+        "source": "Effects",
+        "text": "效果器",
+        "fit": 1,
+        "width": 0.3624,
+        "budget": 2.7
+      },
+      {
+        "name": "Effects.hint",
+        "source": "Effects stay editable and can be disabled.",
+        "text": "效果可随时调整或关闭。",
+        "fit": 1,
+        "width": 0.6582,
+        "budget": 2.7
+      },
+      {
+        "name": "Effects.list.title",
+        "source": "Color Adjustments",
+        "text": "色彩调节",
+        "fit": 1,
+        "width": 0.2998,
+        "budget": 0.7195
+      },
+      {
+        "name": "Effects.search.placeholder",
+        "source": "Find Effects",
+        "text": "查找效果",
+        "fit": 1,
+        "width": 0.3055,
+        "budget": 2.52
+      },
+      {
+        "name": "Effects.subtitle",
+        "source": "Adding an effect creates an FX layer.",
+        "text": "添加效果将新建 FX 图层",
+        "fit": 1,
+        "width": 0.7546,
+        "budget": 2.7
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.heading",
+        "source": "Blur & Sharpen",
+        "text": "模糊与锐化",
+        "fit": 1,
+        "width": 0.378,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row0.label",
+        "source": "Gaussian Blur",
+        "text": "高斯模糊",
+        "fit": 1,
+        "width": 0.2799,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row1.label",
+        "source": "Motion Blur",
+        "text": "运动模糊",
+        "fit": 1,
+        "width": 0.2817,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row2.label",
+        "source": "Focus Blur",
+        "text": "聚焦模糊",
+        "fit": 1,
+        "width": 0.2823,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row3.label",
+        "source": "Sharpen",
+        "text": "锐化",
+        "fit": 1,
+        "width": 0.1399,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport0.label",
+        "source": "Colorize",
+        "text": "单色化",
+        "fit": 1,
+        "width": 0.2074,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport1.label",
+        "source": "Channel Mixer",
+        "text": "通道混合器",
+        "fit": 1,
+        "width": 0.3517,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport2.label",
+        "source": "LUT",
+        "text": "LUT",
+        "fit": 1,
+        "width": 0.1238,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.heading",
+        "source": "Distortion",
+        "text": "扭曲",
+        "fit": 1,
+        "width": 0.1442,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row0.label",
+        "source": "Bump Distortion",
+        "text": "凹凸扭曲",
+        "fit": 1,
+        "width": 0.2745,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row1.label",
+        "source": "Pinch Distortion",
+        "text": "收缩扭曲",
+        "fit": 1,
+        "width": 0.2775,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row2.label",
+        "source": "Stretch Distortion",
+        "text": "拉伸扭曲",
+        "fit": 1,
+        "width": 0.2788,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row3.label",
+        "source": "Twirl Distortion",
+        "text": "旋转扭曲",
+        "fit": 1,
+        "width": 0.28,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row4.label",
+        "source": "Wave Distortion",
+        "text": "波浪扭曲",
+        "fit": 1,
+        "width": 0.2793,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.heading",
+        "source": "Layer Styles",
+        "text": "图层样式",
+        "fit": 1,
+        "width": 0.2979,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row0.label",
+        "source": "Stroke",
+        "text": "描边",
+        "fit": 1,
+        "width": 0.1412,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row1.label",
+        "source": "Shadow",
+        "text": "阴影",
+        "fit": 1,
+        "width": 0.1363,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row2.label",
+        "source": "Inner Shadow",
+        "text": "内阴影",
+        "fit": 1,
+        "width": 0.2071,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row3.label",
+        "source": "Outer Glow",
+        "text": "外发光",
+        "fit": 1,
+        "width": 0.2114,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row4.label",
+        "source": "Inner Glow",
+        "text": "内发光",
+        "fit": 1,
+        "width": 0.2067,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row5.label",
+        "source": "Bevel & Emboss",
+        "text": "斜角与浮雕",
+        "fit": 1,
+        "width": 0.3563,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row6.label",
+        "source": "Fill Style",
+        "text": "填充样式",
+        "fit": 1,
+        "width": 0.2839,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.heading",
+        "source": "Light & Texture",
+        "text": "光效与纹理",
+        "fit": 1,
+        "width": 0.3784,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row0.label",
+        "source": "Bloom",
+        "text": "光效",
+        "fit": 1,
+        "width": 0.1404,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row1.label",
+        "source": "Film Grain",
+        "text": "胶片颗粒",
+        "fit": 1,
+        "width": 0.2833,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row2.label",
+        "source": "Vignette",
+        "text": "暗角",
+        "fit": 1,
+        "width": 0.1302,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row3.label",
+        "source": "Pixelate",
+        "text": "像素化",
+        "fit": 1,
+        "width": 0.212,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.heading",
+        "source": "Portrait",
+        "text": "人像",
+        "fit": 1,
+        "width": 0.1486,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.row0.label",
+        "source": "Beauty",
+        "text": "美颜",
+        "fit": 1,
+        "width": 0.1394,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.row1.label",
+        "source": "Body",
+        "text": "美体",
+        "fit": 1,
+        "width": 0.1402,
+        "budget": 1.45
+      },
+      {
+        "name": "Export.label",
+        "source": "Export",
+        "text": "导出",
+        "fit": 1,
+        "width": 0.1661,
+        "budget": 0.37
+      },
+      {
+        "name": "Inspector.button.label",
+        "source": "Inspector",
+        "text": "调节器",
+        "fit": 1,
+        "width": 0.2652,
+        "budget": 0.4
+      },
+      {
+        "name": "Inspector.heading",
+        "source": "Super Gradient",
+        "text": "超级渐变",
+        "fit": 1,
+        "width": 0.4841,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.hint",
+        "source": "Drag nodes on the canvas to reshape color.",
+        "text": "拖动画布上的节点调整色彩。",
+        "fit": 1,
+        "width": 0.7636,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.nodeColor.title",
+        "source": "Node Color",
+        "text": "节点颜色",
+        "fit": 1,
+        "width": 0.3603,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.nodes.title",
+        "source": "Color Nodes",
+        "text": "颜色节点",
+        "fit": 1,
+        "width": 0.3543,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.presets.title",
+        "source": "Presets",
+        "text": "预设",
+        "fit": 1,
+        "width": 0.1782,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.savePreset.label",
+        "source": "Save Preset",
+        "text": "保存预设",
+        "fit": 1,
+        "width": 0.2345,
+        "budget": 0.3509
+      },
+      {
+        "name": "Inspector.smoothness.label",
+        "source": "Smoothness",
+        "text": "柔和度",
+        "fit": 1,
+        "width": 0.2438,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.smoothness.value",
+        "source": "80 %",
+        "text": "80 %",
+        "fit": 1,
+        "width": 0.1807,
+        "budget": 0.2
+      },
+      {
+        "name": "Inspector.subtitle",
+        "source": "Gradient layer",
+        "text": "渐变图层",
+        "fit": 1,
+        "width": 0.2819,
+        "budget": 1.86
+      },
+      {
+        "name": "Layers.BlendMode.label",
+        "source": "Blend Mode",
+        "text": "混合模式",
+        "fit": 1,
+        "width": 0.3298,
+        "budget": 0.64
+      },
+      {
+        "name": "Layers.BlendMode.value",
+        "source": "Normal",
+        "text": "正常",
+        "fit": 1,
+        "width": 0.154,
+        "budget": 0.92
+      },
+      {
+        "name": "Layers.button.label",
+        "source": "Layers",
+        "text": "图层",
+        "fit": 1,
+        "width": 0.1717,
+        "budget": 0.44
+      },
+      {
+        "name": "Layers.footer.FX",
+        "source": "FX",
+        "text": "FX",
+        "fit": 1,
+        "width": 0.1013,
+        "budget": 0.78
+      },
+      {
+        "name": "Layers.heading",
+        "source": "Layers",
+        "text": "图层",
+        "fit": 1,
+        "width": 0.2292,
+        "budget": 1.73
+      },
+      {
+        "name": "Layers.opacity.label",
+        "source": "Opacity",
+        "text": "不透明度",
+        "fit": 1,
+        "width": 0.3082,
+        "budget": 1.73
+      },
+      {
+        "name": "Layers.opacity.value",
+        "source": "100 %",
+        "text": "100 %",
+        "fit": 1,
+        "width": 0.211,
+        "budget": 0.2321
+      },
+      {
+        "name": "Layers.row0.title",
+        "source": "Pen Path",
+        "text": "钢笔路径",
+        "fit": 1,
+        "width": 0.3264,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row1.title",
+        "source": "Adjustment Layer",
+        "text": "调整图层",
+        "fit": 1,
+        "width": 0.3239,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row2.subtitle",
+        "source": "Mask · Effects: 2",
+        "text": "蒙版 · 效果：2",
+        "fit": 1,
+        "width": 0.428,
+        "budget": 0.89
+      },
+      {
+        "name": "Layers.row2.title",
+        "source": "Shape",
+        "text": "形状",
+        "fit": 1,
+        "width": 0.1616,
+        "budget": 0.89
+      },
+      {
+        "name": "Layers.row3.title",
+        "source": "TEXT",
+        "text": "文字",
+        "fit": 1,
+        "width": 0.1582,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row4.subtitle",
+        "source": "Effects: 3",
+        "text": "效果：3",
+        "fit": 1,
+        "width": 0.2155,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row4.title",
+        "source": "Super Gradient",
+        "text": "超级渐变",
+        "fit": 1,
+        "width": 0.3267,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row5.subtitle",
+        "source": "Effects: 3",
+        "text": "效果：3",
+        "fit": 1,
+        "width": 0.2155,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row5.title",
+        "source": "Empty Layer",
+        "text": "空白图层",
+        "fit": 1,
+        "width": 0.3212,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.search.placeholder",
+        "source": "Find Layers",
+        "text": "查找图层",
+        "fit": 1,
+        "width": 0.3034,
+        "budget": 1.55
+      },
+      {
+        "name": "Pro.label",
+        "source": "Pro",
+        "text": "专业",
+        "fit": 1,
+        "width": 0.1693,
+        "budget": 0.23
+      },
+      {
+        "name": "ProjectName",
+        "source": "Untitled",
+        "text": "Untitled",
+        "fit": 1,
+        "width": 0.3345,
+        "budget": 0.44
+      },
+      {
+        "name": "Smart.label",
+        "source": "Smart",
+        "text": "智能",
+        "fit": 1,
+        "width": 0.1728,
+        "budget": 0.29
+      },
+      {
+        "name": "StartPage.label",
+        "source": "Start Page",
+        "text": "启动页",
+        "fit": 1,
+        "width": 0.2728,
+        "budget": 1.7
+      },
+      {
+        "name": "Switcher.Basic.label",
+        "source": "Basic",
+        "text": "基础",
+        "fit": 1,
+        "width": 0.1115,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Curves.label",
+        "source": "Curves",
+        "text": "曲线",
+        "fit": 1,
+        "width": 0.1096,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Film Grain.label",
+        "source": "Film Grain",
+        "text": "胶片颗粒",
+        "fit": 1,
+        "width": 0.2297,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Gradient.label",
+        "source": "Gradient",
+        "text": "渐变",
+        "fit": 1,
+        "width": 0.1132,
+        "budget": 0.45
+      },
+      {
+        "name": "Titlebar.About",
+        "source": "About",
+        "text": "关于",
+        "fit": 1,
+        "width": 0.1809,
+        "budget": 0.37
+      },
+      {
+        "name": "Titlebar.Extensions",
+        "source": "Extensions",
+        "text": "扩展",
+        "fit": 1,
+        "width": 0.1832,
+        "budget": 0.56
+      },
+      {
+        "name": "Titlebar.Projects",
+        "source": "Projects",
+        "text": "项目",
+        "fit": 1,
+        "width": 0.1722,
+        "budget": 0.47
+      },
+      {
+        "name": "Titlebar.Settings",
+        "source": "Settings",
+        "text": "设置",
+        "fit": 1,
+        "width": 0.181,
+        "budget": 0.46
+      },
+      {
+        "name": "Titlebar.···",
+        "source": "···",
+        "text": "···",
+        "fit": 1,
+        "width": 0.2104,
+        "budget": 0.2314
+      },
+      {
+        "name": "Toolbar.heading",
+        "source": "Super Gradient",
+        "text": "超级渐变",
+        "fit": 1,
+        "width": 0.3768,
+        "budget": 2.5
+      },
+      {
+        "name": "Toolbar.hint",
+        "source": "Use on the canvas.",
+        "text": "在画布上操作",
+        "fit": 1,
+        "width": 0.454,
+        "budget": 3.4
+      },
+      {
+        "name": "ToolPicker.label",
+        "source": "Super Gradient",
+        "text": "超级渐变",
+        "fit": 1,
+        "width": 0.3446,
+        "budget": 0.78
+      },
+      {
+        "name": "Tools.heading",
+        "source": "Canvas",
+        "text": "画布",
+        "fit": 1,
+        "width": 0.2368,
+        "budget": 2.1
+      },
+      {
+        "name": "Tools.hint.line1",
+        "source": "Click a category for its last-used tool;",
+        "text": "点击分类使用上次的工具；",
+        "fit": 1,
+        "width": 0.8036,
+        "budget": 2.2
+      },
+      {
+        "name": "Tools.hint.line2",
+        "source": "hover to choose another tool.",
+        "text": "悬停可选择其他工具。",
+        "fit": 1,
+        "width": 0.6624,
+        "budget": 2.2
+      },
+      {
+        "name": "Tools.tool.Crop.label",
+        "source": "Crop",
+        "text": "裁剪",
+        "fit": 1,
+        "width": 0.1876,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Eyedropper.label",
+        "source": "Eyedropper",
+        "text": "取色器",
+        "fit": 1,
+        "width": 0.2898,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Hand.label",
+        "source": "Hand",
+        "text": "抓手",
+        "fit": 1,
+        "width": 0.1894,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Move.label",
+        "source": "Move",
+        "text": "移动",
+        "fit": 1,
+        "width": 0.189,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Zoom.label",
+        "source": "Zoom",
+        "text": "缩放",
+        "fit": 1,
+        "width": 0.1912,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.heading",
+        "source": "Brush",
+        "text": "画笔",
+        "fit": 1,
+        "width": 0.2372,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Brush.row0.label",
+        "source": "Standard Brush",
+        "text": "普通画笔",
+        "fit": 1,
+        "width": 0.3553,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row1.label",
+        "source": "Pencil",
+        "text": "铅笔",
+        "fit": 1,
+        "width": 0.1754,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row2.label",
+        "source": "Marker",
+        "text": "马克笔",
+        "fit": 1,
+        "width": 0.2638,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row3.label",
+        "source": "Airbrush",
+        "text": "喷枪",
+        "fit": 1,
+        "width": 0.1735,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row4.label",
+        "source": "Watercolor",
+        "text": "水彩",
+        "fit": 1,
+        "width": 0.1773,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row5.label",
+        "source": "Oil Paint",
+        "text": "油画",
+        "fit": 1,
+        "width": 0.1713,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row6.label",
+        "source": "Texture Brush",
+        "text": "纹理画笔",
+        "fit": 1,
+        "width": 0.3568,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row7.label",
+        "source": "Eraser",
+        "text": "橡皮擦",
+        "fit": 1,
+        "width": 0.2678,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.heading",
+        "source": "Fill",
+        "text": "填充",
+        "fit": 1,
+        "width": 0.2463,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Fill.row0.label",
+        "source": "Linear Gradient",
+        "text": "线性渐变",
+        "fit": 1,
+        "width": 0.3572,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row1.label",
+        "source": "Radial Gradient",
+        "text": "径向渐变",
+        "fit": 1,
+        "width": 0.3582,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row2.label",
+        "source": "Super Gradient",
+        "text": "超级渐变",
+        "fit": 1,
+        "width": 0.3589,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row3.label",
+        "source": "Paint Bucket",
+        "text": "油漆桶",
+        "fit": 1,
+        "width": 0.2626,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row4.label",
+        "source": "Color Fill",
+        "text": "颜色填充",
+        "fit": 1,
+        "width": 0.3584,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Path.heading",
+        "source": "Path",
+        "text": "路径",
+        "fit": 1,
+        "width": 0.2457,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Path.row0.label",
+        "source": "Pen Path",
+        "text": "钢笔路径",
+        "fit": 1,
+        "width": 0.3585,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Path.row1.label",
+        "source": "Freeform Path",
+        "text": "自由路径",
+        "fit": 1,
+        "width": 0.3465,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.heading",
+        "source": "Retouch",
+        "text": "修饰",
+        "fit": 1,
+        "width": 0.2463,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Retouch.row0.label",
+        "source": "Smart Repair",
+        "text": "智能修复",
+        "fit": 1,
+        "width": 0.3587,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row1.label",
+        "source": "Texture Smoothing",
+        "text": "纹理平滑",
+        "fit": 1,
+        "width": 0.3575,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row2.label",
+        "source": "Clone Stamp",
+        "text": "仿制图章",
+        "fit": 1,
+        "width": 0.3578,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row3.label",
+        "source": "Dodge",
+        "text": "减淡",
+        "fit": 1,
+        "width": 0.1772,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row4.label",
+        "source": "Burn",
+        "text": "加深",
+        "fit": 1,
+        "width": 0.1763,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row5.label",
+        "source": "Sponge",
+        "text": "海绵",
+        "fit": 1,
+        "width": 0.1729,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row6.label",
+        "source": "Blur Brush",
+        "text": "模糊画笔",
+        "fit": 1,
+        "width": 0.3571,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row7.label",
+        "source": "Sharpen Brush",
+        "text": "锐化画笔",
+        "fit": 1,
+        "width": 0.3572,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row8.label",
+        "source": "Smudge",
+        "text": "涂抹",
+        "fit": 1,
+        "width": 0.1779,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row9.label",
+        "source": "Liquify Push",
+        "text": "液化推移",
+        "fit": 1,
+        "width": 0.3579,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.heading",
+        "source": "Selection",
+        "text": "选择",
+        "fit": 1,
+        "width": 0.2472,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Selection.row0.label",
+        "source": "Quick Selection",
+        "text": "快速选择",
+        "fit": 1,
+        "width": 0.3605,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row1.label",
+        "source": "Rectangular Marquee",
+        "text": "矩形选框",
+        "fit": 1,
+        "width": 0.3585,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row2.label",
+        "source": "Elliptical Marquee",
+        "text": "椭圆选框",
+        "fit": 1,
+        "width": 0.359,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row3.label",
+        "source": "Lasso",
+        "text": "套索",
+        "fit": 1,
+        "width": 0.1746,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row4.label",
+        "source": "Polygonal Lasso",
+        "text": "多边形套索",
+        "fit": 1,
+        "width": 0.4441,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row5.label",
+        "source": "Color Range",
+        "text": "颜色范围",
+        "fit": 1,
+        "width": 0.3549,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.heading",
+        "source": "Shape",
+        "text": "形状",
+        "fit": 1,
+        "width": 0.248,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Shape.row0.label",
+        "source": "Rectangle",
+        "text": "矩形",
+        "fit": 1,
+        "width": 0.1773,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row1.label",
+        "source": "Rounded Rectangle",
+        "text": "圆角矩形",
+        "fit": 1,
+        "width": 0.3551,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row2.label",
+        "source": "Ellipse",
+        "text": "椭圆",
+        "fit": 1,
+        "width": 0.173,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row3.label",
+        "source": "Polygon",
+        "text": "多边形",
+        "fit": 1,
+        "width": 0.2648,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row4.label",
+        "source": "Star",
+        "text": "星形",
+        "fit": 1,
+        "width": 0.1761,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row5.label",
+        "source": "Line",
+        "text": "直线",
+        "fit": 1,
+        "width": 0.1755,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row6.label",
+        "source": "Custom Shape",
+        "text": "自定义形状",
+        "fit": 1,
+        "width": 0.439,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Text.heading",
+        "source": "Text",
+        "text": "文字",
+        "fit": 1,
+        "width": 0.2427,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Text.row0.label",
+        "source": "Horizontal Text",
+        "text": "横排文字",
+        "fit": 1,
+        "width": 0.3563,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Text.row1.label",
+        "source": "Vertical Text",
+        "text": "竖排文字",
+        "fit": 1,
+        "width": 0.3536,
+        "budget": 1.65
+      }
+    ],
+    "appearances": [
+      "light",
+      "dark"
+    ]
+  },
+  "en": {
+    "textObjects": 185,
+    "items": [
+      {
+        "name": "BasicInspector.BlendMode.label",
+        "source": "Blend Mode",
+        "text": "Blend Mode",
+        "fit": 1,
+        "width": 0.453,
+        "budget": 0.64
+      },
+      {
+        "name": "BasicInspector.BlendMode.value",
+        "source": "Normal",
+        "text": "Normal",
+        "fit": 1,
+        "width": 0.2751,
+        "budget": 1.05
+      },
+      {
+        "name": "BasicInspector.center0.label",
+        "source": "Center on Canvas",
+        "text": "Center on Canvas",
+        "fit": 1,
+        "width": 0.3895,
+        "budget": 0.79
+      },
+      {
+        "name": "BasicInspector.center1.label",
+        "source": "Center Relative to Layers",
+        "text": "Center Relative to Layers",
+        "fit": 1,
+        "width": 0.5549,
+        "budget": 0.79
+      },
+      {
+        "name": "BasicInspector.dimensions.heading",
+        "source": "Dimensions",
+        "text": "Dimensions",
+        "fit": 1,
+        "width": 0.4095,
+        "budget": 0.82
+      },
+      {
+        "name": "BasicInspector.H.label",
+        "source": "H",
+        "text": "H",
+        "fit": 1,
+        "width": 0.0407,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.H.value",
+        "source": "1080 px",
+        "text": "1080 px",
+        "fit": 1,
+        "width": 0.2626,
+        "budget": 0.2889
+      },
+      {
+        "name": "BasicInspector.heading",
+        "source": "Basic",
+        "text": "Basic",
+        "fit": 1,
+        "width": 0.2892,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.hint",
+        "source": "Original content preserved · Strokes: 0",
+        "text": "Original content preserved · Strokes: 0",
+        "fit": 1,
+        "width": 1.1399,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Opacity.label",
+        "source": "Opacity",
+        "text": "Opacity",
+        "fit": 1,
+        "width": 0.2716,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Opacity.value",
+        "source": "100 %",
+        "text": "100 %",
+        "fit": 1,
+        "width": 0.2061,
+        "budget": 0.2267
+      },
+      {
+        "name": "BasicInspector.position.heading",
+        "source": "Position",
+        "text": "Position",
+        "fit": 1,
+        "width": 0.2812,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Rotation.label",
+        "source": "Rotation",
+        "text": "Rotation",
+        "fit": 1,
+        "width": 0.2964,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Rotation.value",
+        "source": "0 °",
+        "text": "0 °",
+        "fit": 1,
+        "width": 0.0815,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.subtitle",
+        "source": "Empty Layer",
+        "text": "Empty Layer",
+        "fit": 1,
+        "width": 0.4129,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.W.label",
+        "source": "W",
+        "text": "W",
+        "fit": 1,
+        "width": 0.0634,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.W.value",
+        "source": "1920 px",
+        "text": "1920 px",
+        "fit": 1,
+        "width": 0.2626,
+        "budget": 0.2889
+      },
+      {
+        "name": "BasicInspector.X.label",
+        "source": "X",
+        "text": "X",
+        "fit": 1,
+        "width": 0.0424,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.X.value",
+        "source": "0 px",
+        "text": "0 px",
+        "fit": 1,
+        "width": 0.1397,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.Y.label",
+        "source": "Y",
+        "text": "Y",
+        "fit": 1,
+        "width": 0.0417,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.Y.value",
+        "source": "0 px",
+        "text": "0 px",
+        "fit": 1,
+        "width": 0.1397,
+        "budget": 0.2
+      },
+      {
+        "name": "Effects.button.label",
+        "source": "Effects",
+        "text": "Effects",
+        "fit": 1,
+        "width": 0.2859,
+        "budget": 0.57
+      },
+      {
+        "name": "Effects.category0.label",
+        "source": "Color",
+        "text": "Color",
+        "fit": 1,
+        "width": 0.1716,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category0.line2",
+        "source": "Adjustments",
+        "text": "Adjustments",
+        "fit": 1,
+        "width": 0.4058,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category1.label",
+        "source": "Blur & Sharpen",
+        "text": "Blur & Sharpen",
+        "fit": 1,
+        "width": 0.4726,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category2.label",
+        "source": "Distortion",
+        "text": "Distortion",
+        "fit": 1,
+        "width": 0.3112,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category3.label",
+        "source": "Light & Texture",
+        "text": "Light & Texture",
+        "fit": 1,
+        "width": 0.4802,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category4.label",
+        "source": "Layer Styles",
+        "text": "Layer Styles",
+        "fit": 1,
+        "width": 0.3784,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category5.label",
+        "source": "Portrait",
+        "text": "Portrait",
+        "fit": 1,
+        "width": 0.2427,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.effect0.detail",
+        "source": "Exposure, contrast, saturation",
+        "text": "Exposure, contrast, saturation",
+        "fit": 1,
+        "width": 0.7339,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect0.name",
+        "source": "Basic Adjustments",
+        "text": "Basic Adjustments",
+        "fit": 1,
+        "width": 0.6009,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect1.detail",
+        "source": "Adjust hue and color intensity",
+        "text": "Adjust hue and color intensity",
+        "fit": 1,
+        "width": 0.7329,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect1.name",
+        "source": "Hue & Saturation",
+        "text": "Hue & Saturation",
+        "fit": 1,
+        "width": 0.5543,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect10.detail",
+        "source": "Explore monochrome tones",
+        "text": "Explore monochrome tones",
+        "fit": 1,
+        "width": 0.677,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect10.name",
+        "source": "Black & White",
+        "text": "Black & White",
+        "fit": 1,
+        "width": 0.4441,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect2.detail",
+        "source": "Control eight color ranges",
+        "text": "Control eight color ranges",
+        "fit": 1,
+        "width": 0.6348,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect2.name",
+        "source": "Selective Color",
+        "text": "Selective Color",
+        "fit": 1,
+        "width": 0.4929,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect3.detail",
+        "source": "Black, white and midtones",
+        "text": "Black, white and midtones",
+        "fit": 1,
+        "width": 0.6463,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect3.name",
+        "source": "Levels",
+        "text": "Levels",
+        "fit": 1,
+        "width": 0.1988,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect4.detail",
+        "source": "RGB curves with a histogram",
+        "text": "RGB curves with a histogram",
+        "fit": 1,
+        "width": 0.6945,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect4.name",
+        "source": "Curves",
+        "text": "Curves",
+        "fit": 1,
+        "width": 0.2197,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect5.detail",
+        "source": "Highlights, midtones, shadows",
+        "text": "Highlights, midtones, shadows",
+        "fit": 1,
+        "width": 0.7499,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect5.name",
+        "source": "Color Wheels",
+        "text": "Color Wheels",
+        "fit": 1,
+        "width": 0.4267,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect6.detail",
+        "source": "Replace a chosen color range",
+        "text": "Replace a chosen color range",
+        "fit": 1,
+        "width": 0.7118,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect6.name",
+        "source": "Replace Color",
+        "text": "Replace Color",
+        "fit": 1,
+        "width": 0.4531,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect7.detail",
+        "source": "Make a target color transparent",
+        "text": "Make a target color transparent",
+        "fit": 1,
+        "width": 0.7698,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect7.name",
+        "source": "Remove Color",
+        "text": "Remove Color",
+        "fit": 1,
+        "width": 0.4585,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect8.detail",
+        "source": "A softly faded look",
+        "text": "A softly faded look",
+        "fit": 1,
+        "width": 0.4543,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect8.name",
+        "source": "Fade",
+        "text": "Fade",
+        "fit": 1,
+        "width": 0.1533,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect9.detail",
+        "source": "Balance shadows and highlights",
+        "text": "Balance shadows and highlights",
+        "fit": 1,
+        "width": 0.784,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect9.name",
+        "source": "Smart HDR",
+        "text": "Smart HDR",
+        "fit": 1,
+        "width": 0.36,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.heading",
+        "source": "Effects",
+        "text": "Effects",
+        "fit": 1,
+        "width": 0.3709,
+        "budget": 2.7
+      },
+      {
+        "name": "Effects.hint",
+        "source": "Effects stay editable and can be disabled.",
+        "text": "Effects stay editable and can be disabled.",
+        "fit": 1,
+        "width": 1.213,
+        "budget": 2.7
+      },
+      {
+        "name": "Effects.list.title",
+        "source": "Color Adjustments",
+        "text": "Color Adjustments",
+        "fit": 1,
+        "width": 0.6541,
+        "budget": 0.7195
+      },
+      {
+        "name": "Effects.search.placeholder",
+        "source": "Find Effects",
+        "text": "Find Effects",
+        "fit": 1,
+        "width": 0.4104,
+        "budget": 2.52
+      },
+      {
+        "name": "Effects.subtitle",
+        "source": "Adding an effect creates an FX layer.",
+        "text": "Adding an effect creates an FX layer.",
+        "fit": 1,
+        "width": 1.2009,
+        "budget": 2.7
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.heading",
+        "source": "Blur & Sharpen",
+        "text": "Blur & Sharpen",
+        "fit": 1,
+        "width": 0.5222,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row0.label",
+        "source": "Gaussian Blur",
+        "text": "Gaussian Blur",
+        "fit": 1,
+        "width": 0.4575,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row1.label",
+        "source": "Motion Blur",
+        "text": "Motion Blur",
+        "fit": 1,
+        "width": 0.3855,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row2.label",
+        "source": "Focus Blur",
+        "text": "Focus Blur",
+        "fit": 1,
+        "width": 0.3465,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row3.label",
+        "source": "Sharpen",
+        "text": "Sharpen",
+        "fit": 1,
+        "width": 0.2748,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport0.label",
+        "source": "Colorize",
+        "text": "Colorize",
+        "fit": 1,
+        "width": 0.2655,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport1.label",
+        "source": "Channel Mixer",
+        "text": "Channel Mixer",
+        "fit": 1,
+        "width": 0.4669,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport2.label",
+        "source": "LUT",
+        "text": "LUT",
+        "fit": 1,
+        "width": 0.1238,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.heading",
+        "source": "Distortion",
+        "text": "Distortion",
+        "fit": 1,
+        "width": 0.3439,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row0.label",
+        "source": "Bump Distortion",
+        "text": "Bump Distortion",
+        "fit": 1,
+        "width": 0.5417,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row1.label",
+        "source": "Pinch Distortion",
+        "text": "Pinch Distortion",
+        "fit": 1,
+        "width": 0.5291,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row2.label",
+        "source": "Stretch Distortion",
+        "text": "Stretch Distortion",
+        "fit": 1,
+        "width": 0.5888,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row3.label",
+        "source": "Twirl Distortion",
+        "text": "Twirl Distortion",
+        "fit": 1,
+        "width": 0.5135,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row4.label",
+        "source": "Wave Distortion",
+        "text": "Wave Distortion",
+        "fit": 1,
+        "width": 0.526,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.heading",
+        "source": "Layer Styles",
+        "text": "Layer Styles",
+        "fit": 1,
+        "width": 0.4181,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row0.label",
+        "source": "Stroke",
+        "text": "Stroke",
+        "fit": 1,
+        "width": 0.2156,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row1.label",
+        "source": "Shadow",
+        "text": "Shadow",
+        "fit": 1,
+        "width": 0.2688,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row2.label",
+        "source": "Inner Shadow",
+        "text": "Inner Shadow",
+        "fit": 1,
+        "width": 0.4574,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row3.label",
+        "source": "Outer Glow",
+        "text": "Outer Glow",
+        "fit": 1,
+        "width": 0.3742,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row4.label",
+        "source": "Inner Glow",
+        "text": "Inner Glow",
+        "fit": 1,
+        "width": 0.3558,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row5.label",
+        "source": "Bevel & Emboss",
+        "text": "Bevel & Emboss",
+        "fit": 1,
+        "width": 0.5213,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row6.label",
+        "source": "Fill Style",
+        "text": "Fill Style",
+        "fit": 1,
+        "width": 0.2748,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.heading",
+        "source": "Light & Texture",
+        "text": "Light & Texture",
+        "fit": 1,
+        "width": 0.5307,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row0.label",
+        "source": "Bloom",
+        "text": "Bloom",
+        "fit": 1,
+        "width": 0.209,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row1.label",
+        "source": "Film Grain",
+        "text": "Film Grain",
+        "fit": 1,
+        "width": 0.3318,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row2.label",
+        "source": "Vignette",
+        "text": "Vignette",
+        "fit": 1,
+        "width": 0.2774,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row3.label",
+        "source": "Pixelate",
+        "text": "Pixelate",
+        "fit": 1,
+        "width": 0.2595,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.heading",
+        "source": "Portrait",
+        "text": "Portrait",
+        "fit": 1,
+        "width": 0.2681,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.row0.label",
+        "source": "Beauty",
+        "text": "Face Retouch",
+        "fit": 1,
+        "width": 0.4408,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.row1.label",
+        "source": "Body",
+        "text": "Body Reshape",
+        "fit": 1,
+        "width": 0.4674,
+        "budget": 1.45
+      },
+      {
+        "name": "Export.label",
+        "source": "Export",
+        "text": "Export",
+        "fit": 1,
+        "width": 0.2681,
+        "budget": 0.37
+      },
+      {
+        "name": "Inspector.button.label",
+        "source": "Inspector",
+        "text": "Inspector",
+        "fit": 1,
+        "width": 0.391,
+        "budget": 0.4
+      },
+      {
+        "name": "Inspector.heading",
+        "source": "Super Gradient",
+        "text": "Super Gradient",
+        "fit": 1,
+        "width": 0.862,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.hint",
+        "source": "Drag nodes on the canvas to reshape color.",
+        "text": "Drag nodes on the canvas to reshape color.",
+        "fit": 1,
+        "width": 1.2299,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.nodeColor.title",
+        "source": "Node Color",
+        "text": "Node Color",
+        "fit": 1,
+        "width": 0.4745,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.nodes.title",
+        "source": "Color Nodes",
+        "text": "Color Nodes",
+        "fit": 1,
+        "width": 0.5077,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.presets.title",
+        "source": "Presets",
+        "text": "Presets",
+        "fit": 1,
+        "width": 0.3047,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.savePreset.label",
+        "source": "Save Preset",
+        "text": "Save Preset",
+        "fit": 1,
+        "width": 0.319,
+        "budget": 0.3509
+      },
+      {
+        "name": "Inspector.smoothness.label",
+        "source": "Smoothness",
+        "text": "Smoothness",
+        "fit": 1,
+        "width": 0.4761,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.smoothness.value",
+        "source": "80 %",
+        "text": "80 %",
+        "fit": 1,
+        "width": 0.1807,
+        "budget": 0.2
+      },
+      {
+        "name": "Inspector.subtitle",
+        "source": "Gradient layer",
+        "text": "Gradient layer",
+        "fit": 1,
+        "width": 0.4724,
+        "budget": 1.86
+      },
+      {
+        "name": "Layers.BlendMode.label",
+        "source": "Blend Mode",
+        "text": "Blend Mode",
+        "fit": 1,
+        "width": 0.453,
+        "budget": 0.64
+      },
+      {
+        "name": "Layers.BlendMode.value",
+        "source": "Normal",
+        "text": "Normal",
+        "fit": 1,
+        "width": 0.2751,
+        "budget": 0.92
+      },
+      {
+        "name": "Layers.button.label",
+        "source": "Layers",
+        "text": "Layers",
+        "fit": 1,
+        "width": 0.2675,
+        "budget": 0.44
+      },
+      {
+        "name": "Layers.footer.FX",
+        "source": "FX",
+        "text": "FX",
+        "fit": 1,
+        "width": 0.1013,
+        "budget": 0.78
+      },
+      {
+        "name": "Layers.heading",
+        "source": "Layers",
+        "text": "Layers",
+        "fit": 1,
+        "width": 0.3572,
+        "budget": 1.73
+      },
+      {
+        "name": "Layers.opacity.label",
+        "source": "Opacity",
+        "text": "Opacity",
+        "fit": 1,
+        "width": 0.278,
+        "budget": 1.73
+      },
+      {
+        "name": "Layers.opacity.value",
+        "source": "100 %",
+        "text": "100 %",
+        "fit": 1,
+        "width": 0.211,
+        "budget": 0.2321
+      },
+      {
+        "name": "Layers.row0.title",
+        "source": "Pen Path",
+        "text": "Pen Path",
+        "fit": 1,
+        "width": 0.3338,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row1.title",
+        "source": "Adjustment Layer",
+        "text": "Adjustment Layer",
+        "fit": 1,
+        "width": 0.6816,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row2.subtitle",
+        "source": "Mask · Effects: 2",
+        "text": "Mask · Effects: 2",
+        "fit": 1,
+        "width": 0.4898,
+        "budget": 0.89
+      },
+      {
+        "name": "Layers.row2.title",
+        "source": "Shape",
+        "text": "Shape",
+        "fit": 1,
+        "width": 0.2372,
+        "budget": 0.89
+      },
+      {
+        "name": "Layers.row3.title",
+        "source": "TEXT",
+        "text": "Text",
+        "fit": 1,
+        "width": 0.1654,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row4.subtitle",
+        "source": "Effects: 3",
+        "text": "Effects: 3",
+        "fit": 1,
+        "width": 0.2515,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row4.title",
+        "source": "Super Gradient",
+        "text": "Super Gradient",
+        "fit": 1,
+        "width": 0.5814,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row5.subtitle",
+        "source": "Effects: 3",
+        "text": "Effects: 3",
+        "fit": 1,
+        "width": 0.2515,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row5.title",
+        "source": "Empty Layer",
+        "text": "Empty Layer",
+        "fit": 1,
+        "width": 0.4754,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.search.placeholder",
+        "source": "Find Layers",
+        "text": "Find Layers",
+        "fit": 1,
+        "width": 0.4018,
+        "budget": 1.55
+      },
+      {
+        "name": "Pro.label",
+        "source": "Pro",
+        "text": "Pro",
+        "fit": 1,
+        "width": 0.1324,
+        "budget": 0.23
+      },
+      {
+        "name": "ProjectName",
+        "source": "Untitled",
+        "text": "Untitled",
+        "fit": 1,
+        "width": 0.3345,
+        "budget": 0.44
+      },
+      {
+        "name": "Smart.label",
+        "source": "Smart",
+        "text": "Smart",
+        "fit": 1,
+        "width": 0.25,
+        "budget": 0.29
+      },
+      {
+        "name": "StartPage.label",
+        "source": "Start Page",
+        "text": "Start Page",
+        "fit": 1,
+        "width": 0.4464,
+        "budget": 1.7
+      },
+      {
+        "name": "Switcher.Basic.label",
+        "source": "Basic",
+        "text": "Basic",
+        "fit": 1,
+        "width": 0.1377,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Curves.label",
+        "source": "Curves",
+        "text": "Curves",
+        "fit": 1,
+        "width": 0.1805,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Film Grain.label",
+        "source": "Film Grain",
+        "text": "Film Grain",
+        "fit": 1,
+        "width": 0.269,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Gradient.label",
+        "source": "Gradient",
+        "text": "Gradient",
+        "fit": 1,
+        "width": 0.2344,
+        "budget": 0.45
+      },
+      {
+        "name": "Titlebar.About",
+        "source": "About",
+        "text": "About",
+        "fit": 1,
+        "width": 0.2662,
+        "budget": 0.37
+      },
+      {
+        "name": "Titlebar.Extensions",
+        "source": "Extensions",
+        "text": "Extensions",
+        "fit": 1,
+        "width": 0.4665,
+        "budget": 0.56
+      },
+      {
+        "name": "Titlebar.Projects",
+        "source": "Projects",
+        "text": "Projects",
+        "fit": 1,
+        "width": 0.3487,
+        "budget": 0.47
+      },
+      {
+        "name": "Titlebar.Settings",
+        "source": "Settings",
+        "text": "Settings",
+        "fit": 1,
+        "width": 0.3549,
+        "budget": 0.46
+      },
+      {
+        "name": "Titlebar.···",
+        "source": "···",
+        "text": "···",
+        "fit": 1,
+        "width": 0.2104,
+        "budget": 0.2314
+      },
+      {
+        "name": "Toolbar.heading",
+        "source": "Super Gradient",
+        "text": "Super Gradient",
+        "fit": 1,
+        "width": 0.6707,
+        "budget": 2.5
+      },
+      {
+        "name": "Toolbar.hint",
+        "source": "Use on the canvas.",
+        "text": "Use on the canvas.",
+        "fit": 1,
+        "width": 0.6518,
+        "budget": 3.4
+      },
+      {
+        "name": "ToolPicker.label",
+        "source": "Super Gradient",
+        "text": "Super Gradient",
+        "fit": 1,
+        "width": 0.6133,
+        "budget": 0.78
+      },
+      {
+        "name": "Tools.heading",
+        "source": "Canvas",
+        "text": "Canvas",
+        "fit": 1,
+        "width": 0.4175,
+        "budget": 2.1
+      },
+      {
+        "name": "Tools.hint.line1",
+        "source": "Click a category for its last-used tool;",
+        "text": "Click a category for its last-used tool;",
+        "fit": 1,
+        "width": 1.2089,
+        "budget": 2.2
+      },
+      {
+        "name": "Tools.hint.line2",
+        "source": "hover to choose another tool.",
+        "text": "hover to choose another tool.",
+        "fit": 1,
+        "width": 0.9664,
+        "budget": 2.2
+      },
+      {
+        "name": "Tools.tool.Crop.label",
+        "source": "Crop",
+        "text": "Crop",
+        "fit": 1,
+        "width": 0.2114,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Eyedropper.label",
+        "source": "Eyedropper",
+        "text": "Eyedropper",
+        "fit": 1,
+        "width": 0.5281,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Hand.label",
+        "source": "Hand",
+        "text": "Hand",
+        "fit": 1,
+        "width": 0.2298,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Move.label",
+        "source": "Move",
+        "text": "Move",
+        "fit": 1,
+        "width": 0.232,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Zoom.label",
+        "source": "Zoom",
+        "text": "Zoom",
+        "fit": 1,
+        "width": 0.2571,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.heading",
+        "source": "Brush",
+        "text": "Brush",
+        "fit": 1,
+        "width": 0.3253,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Brush.row0.label",
+        "source": "Standard Brush",
+        "text": "Standard Brush",
+        "fit": 1,
+        "width": 0.6528,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row1.label",
+        "source": "Pencil",
+        "text": "Pencil",
+        "fit": 1,
+        "width": 0.2488,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row2.label",
+        "source": "Marker",
+        "text": "Marker",
+        "fit": 1,
+        "width": 0.2885,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row3.label",
+        "source": "Airbrush",
+        "text": "Airbrush",
+        "fit": 1,
+        "width": 0.3538,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row4.label",
+        "source": "Watercolor",
+        "text": "Watercolor",
+        "fit": 1,
+        "width": 0.4681,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row5.label",
+        "source": "Oil Paint",
+        "text": "Oil Paint",
+        "fit": 1,
+        "width": 0.3572,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row6.label",
+        "source": "Texture Brush",
+        "text": "Texture Brush",
+        "fit": 1,
+        "width": 0.585,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row7.label",
+        "source": "Eraser",
+        "text": "Eraser",
+        "fit": 1,
+        "width": 0.2605,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.heading",
+        "source": "Fill",
+        "text": "Fill",
+        "fit": 1,
+        "width": 0.1604,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Fill.row0.label",
+        "source": "Linear Gradient",
+        "text": "Linear Gradient",
+        "fit": 1,
+        "width": 0.6491,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row1.label",
+        "source": "Radial Gradient",
+        "text": "Radial Gradient",
+        "fit": 1,
+        "width": 0.6497,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row2.label",
+        "source": "Super Gradient",
+        "text": "Super Gradient",
+        "fit": 1,
+        "width": 0.6388,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row3.label",
+        "source": "Paint Bucket",
+        "text": "Paint Bucket",
+        "fit": 1,
+        "width": 0.5313,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row4.label",
+        "source": "Color Fill",
+        "text": "Color Fill",
+        "fit": 1,
+        "width": 0.3688,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Path.heading",
+        "source": "Path",
+        "text": "Path",
+        "fit": 1,
+        "width": 0.2555,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Path.row0.label",
+        "source": "Pen Path",
+        "text": "Pen Path",
+        "fit": 1,
+        "width": 0.3668,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Path.row1.label",
+        "source": "Freeform Path",
+        "text": "Freehand Path",
+        "fit": 1,
+        "width": 0.6081,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.heading",
+        "source": "Retouch",
+        "text": "Retouch",
+        "fit": 1,
+        "width": 0.4743,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Retouch.row0.label",
+        "source": "Smart Repair",
+        "text": "Smart Repair",
+        "fit": 1,
+        "width": 0.5532,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row1.label",
+        "source": "Texture Smoothing",
+        "text": "Texture Smoothing",
+        "fit": 1,
+        "width": 0.8133,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row2.label",
+        "source": "Clone Stamp",
+        "text": "Clone Stamp",
+        "fit": 1,
+        "width": 0.5369,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row3.label",
+        "source": "Dodge",
+        "text": "Dodge",
+        "fit": 1,
+        "width": 0.2639,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row4.label",
+        "source": "Burn",
+        "text": "Burn",
+        "fit": 1,
+        "width": 0.19,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row5.label",
+        "source": "Sponge",
+        "text": "Sponge",
+        "fit": 1,
+        "width": 0.3161,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row6.label",
+        "source": "Blur Brush",
+        "text": "Blur Brush",
+        "fit": 1,
+        "width": 0.4292,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row7.label",
+        "source": "Sharpen Brush",
+        "text": "Sharpen Brush",
+        "fit": 1,
+        "width": 0.6165,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row8.label",
+        "source": "Smudge",
+        "text": "Smudge",
+        "fit": 1,
+        "width": 0.345,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row9.label",
+        "source": "Liquify Push",
+        "text": "Liquify Push",
+        "fit": 1,
+        "width": 0.5037,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.heading",
+        "source": "Selection",
+        "text": "Selection",
+        "fit": 1,
+        "width": 0.5407,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Selection.row0.label",
+        "source": "Quick Selection",
+        "text": "Quick Selection",
+        "fit": 1,
+        "width": 0.6504,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row1.label",
+        "source": "Rectangular Marquee",
+        "text": "Rectangular Marquee",
+        "fit": 1,
+        "width": 0.8962,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row2.label",
+        "source": "Elliptical Marquee",
+        "text": "Elliptical Marquee",
+        "fit": 1,
+        "width": 0.751,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row3.label",
+        "source": "Lasso",
+        "text": "Lasso",
+        "fit": 1,
+        "width": 0.2281,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row4.label",
+        "source": "Polygonal Lasso",
+        "text": "Polygonal Lasso",
+        "fit": 1,
+        "width": 0.6737,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row5.label",
+        "source": "Color Range",
+        "text": "Color Range",
+        "fit": 1,
+        "width": 0.5082,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.heading",
+        "source": "Shape",
+        "text": "Shape",
+        "fit": 1,
+        "width": 0.3643,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Shape.row0.label",
+        "source": "Rectangle",
+        "text": "Rectangle",
+        "fit": 1,
+        "width": 0.4113,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row1.label",
+        "source": "Rounded Rectangle",
+        "text": "Rounded Rectangle",
+        "fit": 1,
+        "width": 0.8188,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row2.label",
+        "source": "Ellipse",
+        "text": "Ellipse",
+        "fit": 1,
+        "width": 0.2677,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row3.label",
+        "source": "Polygon",
+        "text": "Polygon",
+        "fit": 1,
+        "width": 0.3322,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row4.label",
+        "source": "Star",
+        "text": "Star",
+        "fit": 1,
+        "width": 0.1722,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row5.label",
+        "source": "Line",
+        "text": "Line",
+        "fit": 1,
+        "width": 0.1683,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row6.label",
+        "source": "Custom Shape",
+        "text": "Custom Shape",
+        "fit": 1,
+        "width": 0.6096,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Text.heading",
+        "source": "Text",
+        "text": "Text",
+        "fit": 1,
+        "width": 0.2539,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Text.row0.label",
+        "source": "Horizontal Text",
+        "text": "Horizontal Text",
+        "fit": 1,
+        "width": 0.6428,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Text.row1.label",
+        "source": "Vertical Text",
+        "text": "Vertical Text",
+        "fit": 1,
+        "width": 0.5259,
+        "budget": 1.65
+      }
+    ],
+    "appearances": [
+      "light",
+      "dark"
+    ]
+  },
+  "ja": {
+    "textObjects": 185,
+    "items": [
+      {
+        "name": "BasicInspector.BlendMode.label",
+        "source": "Blend Mode",
+        "text": "描画モード",
+        "fit": 1,
+        "width": 0.4068,
+        "budget": 0.64
+      },
+      {
+        "name": "BasicInspector.BlendMode.value",
+        "source": "Normal",
+        "text": "通常",
+        "fit": 1,
+        "width": 0.1552,
+        "budget": 1.05
+      },
+      {
+        "name": "BasicInspector.center0.label",
+        "source": "Center on Canvas",
+        "text": "キャンバスの中央に配置",
+        "fit": 1,
+        "width": 0.5239,
+        "budget": 0.79
+      },
+      {
+        "name": "BasicInspector.center1.label",
+        "source": "Center Relative to Layers",
+        "text": "ほかのレイヤーを基準に中央配置",
+        "fit": 1,
+        "width": 0.7164,
+        "budget": 0.79
+      },
+      {
+        "name": "BasicInspector.dimensions.heading",
+        "source": "Dimensions",
+        "text": "サイズ",
+        "fit": 1,
+        "width": 0.2219,
+        "budget": 0.82
+      },
+      {
+        "name": "BasicInspector.H.label",
+        "source": "H",
+        "text": "高さ",
+        "fit": 1,
+        "width": 0.1372,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.H.value",
+        "source": "1080 px",
+        "text": "1080 px",
+        "fit": 1,
+        "width": 0.2626,
+        "budget": 0.2889
+      },
+      {
+        "name": "BasicInspector.heading",
+        "source": "Basic",
+        "text": "基本",
+        "fit": 1,
+        "width": 0.2385,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.hint",
+        "source": "Original content preserved · Strokes: 0",
+        "text": "元の内容を保持 · ストローク：0",
+        "fit": 1,
+        "width": 0.9239,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Opacity.label",
+        "source": "Opacity",
+        "text": "不透明度",
+        "fit": 1,
+        "width": 0.3011,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Opacity.value",
+        "source": "100 %",
+        "text": "100 %",
+        "fit": 1,
+        "width": 0.2061,
+        "budget": 0.2267
+      },
+      {
+        "name": "BasicInspector.position.heading",
+        "source": "Position",
+        "text": "位置",
+        "fit": 1,
+        "width": 0.1468,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Rotation.label",
+        "source": "Rotation",
+        "text": "回転",
+        "fit": 1,
+        "width": 0.145,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Rotation.value",
+        "source": "0 °",
+        "text": "0 °",
+        "fit": 1,
+        "width": 0.0815,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.subtitle",
+        "source": "Empty Layer",
+        "text": "空のレイヤー",
+        "fit": 1,
+        "width": 0.4195,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.W.label",
+        "source": "W",
+        "text": "幅",
+        "fit": 1,
+        "width": 0.0678,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.W.value",
+        "source": "1920 px",
+        "text": "1920 px",
+        "fit": 1,
+        "width": 0.2626,
+        "budget": 0.2889
+      },
+      {
+        "name": "BasicInspector.X.label",
+        "source": "X",
+        "text": "X",
+        "fit": 1,
+        "width": 0.0424,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.X.value",
+        "source": "0 px",
+        "text": "0 px",
+        "fit": 1,
+        "width": 0.1397,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.Y.label",
+        "source": "Y",
+        "text": "Y",
+        "fit": 1,
+        "width": 0.0417,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.Y.value",
+        "source": "0 px",
+        "text": "0 px",
+        "fit": 1,
+        "width": 0.1397,
+        "budget": 0.2
+      },
+      {
+        "name": "Effects.button.label",
+        "source": "Effects",
+        "text": "エフェクト",
+        "fit": 1,
+        "width": 0.452,
+        "budget": 0.57
+      },
+      {
+        "name": "Effects.category0.label",
+        "source": "Color",
+        "text": "カラー",
+        "fit": 1,
+        "width": 0.1941,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category0.line2",
+        "source": "Adjustments",
+        "text": "調整",
+        "fit": 1,
+        "width": 0.1341,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category1.label",
+        "source": "Blur & Sharpen",
+        "text": "ぼかしとシャープ",
+        "fit": 1,
+        "width": 0.5474,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category2.label",
+        "source": "Distortion",
+        "text": "変形",
+        "fit": 1,
+        "width": 0.1345,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category3.label",
+        "source": "Light & Texture",
+        "text": "光とテクスチャ",
+        "fit": 1,
+        "width": 0.4739,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category4.label",
+        "source": "Layer Styles",
+        "text": "レイヤースタイル",
+        "fit": 1,
+        "width": 0.5359,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category5.label",
+        "source": "Portrait",
+        "text": "ポートレート",
+        "fit": 1,
+        "width": 0.4016,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.effect0.detail",
+        "source": "Exposure, contrast, saturation",
+        "text": "露光・コントラスト・彩度",
+        "fit": 1,
+        "width": 0.6301,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect0.name",
+        "source": "Basic Adjustments",
+        "text": "基本調整",
+        "fit": 1,
+        "width": 0.2802,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect1.detail",
+        "source": "Adjust hue and color intensity",
+        "text": "色相と彩度を調整",
+        "fit": 1,
+        "width": 0.4197,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect1.name",
+        "source": "Hue & Saturation",
+        "text": "色相・彩度",
+        "fit": 1,
+        "width": 0.351,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect10.detail",
+        "source": "Explore monochrome tones",
+        "text": "モノクロの階調を調整",
+        "fit": 1,
+        "width": 0.5211,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect10.name",
+        "source": "Black & White",
+        "text": "白黒",
+        "fit": 1,
+        "width": 0.1295,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect2.detail",
+        "source": "Control eight color ranges",
+        "text": "8つの色域を調整",
+        "fit": 1,
+        "width": 0.3957,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect2.name",
+        "source": "Selective Color",
+        "text": "特定色域の選択",
+        "fit": 1,
+        "width": 0.4939,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect3.detail",
+        "source": "Black, white and midtones",
+        "text": "黒・白・中間調",
+        "fit": 1,
+        "width": 0.3644,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect3.name",
+        "source": "Levels",
+        "text": "レベル補正",
+        "fit": 1,
+        "width": 0.3367,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect4.detail",
+        "source": "RGB curves with a histogram",
+        "text": "RGB カーブとヒストグラム",
+        "fit": 1,
+        "width": 0.6367,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect4.name",
+        "source": "Curves",
+        "text": "トーンカーブ",
+        "fit": 1,
+        "width": 0.4014,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect5.detail",
+        "source": "Highlights, midtones, shadows",
+        "text": "ハイライト・中間調・シャドウ",
+        "fit": 1,
+        "width": 0.7302,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect5.name",
+        "source": "Color Wheels",
+        "text": "カラーホイール",
+        "fit": 1,
+        "width": 0.4873,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect6.detail",
+        "source": "Replace a chosen color range",
+        "text": "指定した色域を置き換える",
+        "fit": 1,
+        "width": 0.6254,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect6.name",
+        "source": "Replace Color",
+        "text": "色の置き換え",
+        "fit": 1,
+        "width": 0.4178,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect7.detail",
+        "source": "Make a target color transparent",
+        "text": "指定色を透明にする",
+        "fit": 1,
+        "width": 0.467,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect7.name",
+        "source": "Remove Color",
+        "text": "カラーを除去",
+        "fit": 1,
+        "width": 0.4161,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect8.detail",
+        "source": "A softly faded look",
+        "text": "柔らかい色あせた質感",
+        "fit": 1,
+        "width": 0.525,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect8.name",
+        "source": "Fade",
+        "text": "フェード",
+        "fit": 1,
+        "width": 0.2657,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect9.detail",
+        "source": "Balance shadows and highlights",
+        "text": "シャドウとハイライトのバランスを調整",
+        "fit": 1,
+        "width": 0.9442,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect9.name",
+        "source": "Smart HDR",
+        "text": "スマート HDR",
+        "fit": 1,
+        "width": 0.438,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.heading",
+        "source": "Effects",
+        "text": "エフェクト",
+        "fit": 1,
+        "width": 0.5864,
+        "budget": 2.7
+      },
+      {
+        "name": "Effects.hint",
+        "source": "Effects stay editable and can be disabled.",
+        "text": "エフェクトはいつでも編集・無効化できます。",
+        "fit": 1,
+        "width": 1.2922,
+        "budget": 2.7
+      },
+      {
+        "name": "Effects.list.title",
+        "source": "Color Adjustments",
+        "text": "カラー調整",
+        "fit": 1,
+        "width": 0.3726,
+        "budget": 0.7195
+      },
+      {
+        "name": "Effects.search.placeholder",
+        "source": "Find Effects",
+        "text": "エフェクトを検索",
+        "fit": 1,
+        "width": 0.6089,
+        "budget": 2.52
+      },
+      {
+        "name": "Effects.subtitle",
+        "source": "Adding an effect creates an FX layer.",
+        "text": "エフェクトを追加すると FX レイヤーを作成します。",
+        "fit": 1,
+        "width": 1.6433,
+        "budget": 2.7
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.heading",
+        "source": "Blur & Sharpen",
+        "text": "ぼかしとシャープ",
+        "fit": 1,
+        "width": 0.6049,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row0.label",
+        "source": "Gaussian Blur",
+        "text": "ぼかし（ガウス）",
+        "fit": 1,
+        "width": 0.5201,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row1.label",
+        "source": "Motion Blur",
+        "text": "ぼかし（移動）",
+        "fit": 1,
+        "width": 0.4482,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row2.label",
+        "source": "Focus Blur",
+        "text": "フォーカスぼかし",
+        "fit": 1,
+        "width": 0.5587,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row3.label",
+        "source": "Sharpen",
+        "text": "シャープ",
+        "fit": 1,
+        "width": 0.28,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport0.label",
+        "source": "Colorize",
+        "text": "着色",
+        "fit": 1,
+        "width": 0.1386,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport1.label",
+        "source": "Channel Mixer",
+        "text": "チャンネルミキサー",
+        "fit": 1,
+        "width": 0.6264,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport2.label",
+        "source": "LUT",
+        "text": "LUT",
+        "fit": 1,
+        "width": 0.1238,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.heading",
+        "source": "Distortion",
+        "text": "変形",
+        "fit": 1,
+        "width": 0.1485,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row0.label",
+        "source": "Bump Distortion",
+        "text": "膨張",
+        "fit": 1,
+        "width": 0.141,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row1.label",
+        "source": "Pinch Distortion",
+        "text": "つまむ",
+        "fit": 1,
+        "width": 0.2061,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row2.label",
+        "source": "Stretch Distortion",
+        "text": "引き伸ばし",
+        "fit": 1,
+        "width": 0.3471,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row3.label",
+        "source": "Twirl Distortion",
+        "text": "渦巻き",
+        "fit": 1,
+        "width": 0.204,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row4.label",
+        "source": "Wave Distortion",
+        "text": "波形",
+        "fit": 1,
+        "width": 0.1402,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.heading",
+        "source": "Layer Styles",
+        "text": "レイヤースタイル",
+        "fit": 1,
+        "width": 0.5922,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row0.label",
+        "source": "Stroke",
+        "text": "境界線",
+        "fit": 1,
+        "width": 0.2121,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row1.label",
+        "source": "Shadow",
+        "text": "シャドウ",
+        "fit": 1,
+        "width": 0.2727,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row2.label",
+        "source": "Inner Shadow",
+        "text": "シャドウ（内側）",
+        "fit": 1,
+        "width": 0.5188,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row3.label",
+        "source": "Outer Glow",
+        "text": "光彩（外側）",
+        "fit": 1,
+        "width": 0.3802,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row4.label",
+        "source": "Inner Glow",
+        "text": "光彩（内側）",
+        "fit": 1,
+        "width": 0.3802,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row5.label",
+        "source": "Bevel & Emboss",
+        "text": "ベベルとエンボス",
+        "fit": 1,
+        "width": 0.5656,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row6.label",
+        "source": "Fill Style",
+        "text": "塗りつぶしスタイル",
+        "fit": 1,
+        "width": 0.6418,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.heading",
+        "source": "Light & Texture",
+        "text": "光とテクスチャ",
+        "fit": 1,
+        "width": 0.5237,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row0.label",
+        "source": "Bloom",
+        "text": "ブルーム",
+        "fit": 1,
+        "width": 0.2746,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row1.label",
+        "source": "Film Grain",
+        "text": "フィルム粒子",
+        "fit": 1,
+        "width": 0.4186,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row2.label",
+        "source": "Vignette",
+        "text": "ビネット",
+        "fit": 1,
+        "width": 0.2644,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row3.label",
+        "source": "Pixelate",
+        "text": "ピクセル化",
+        "fit": 1,
+        "width": 0.3445,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.heading",
+        "source": "Portrait",
+        "text": "ポートレート",
+        "fit": 1,
+        "width": 0.4437,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.row0.label",
+        "source": "Beauty",
+        "text": "顔のレタッチ",
+        "fit": 1,
+        "width": 0.4246,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.row1.label",
+        "source": "Body",
+        "text": "体形補正",
+        "fit": 1,
+        "width": 0.2828,
+        "budget": 1.45
+      },
+      {
+        "name": "Export.label",
+        "source": "Export",
+        "text": "書き出し",
+        "fit": 1,
+        "width": 0.3474,
+        "budget": 0.37
+      },
+      {
+        "name": "Inspector.button.label",
+        "source": "Inspector",
+        "text": "インスペクタ",
+        "fit": 0.7651,
+        "width": 0.4,
+        "budget": 0.4
+      },
+      {
+        "name": "Inspector.heading",
+        "source": "Super Gradient",
+        "text": "スーパーグラデーション",
+        "fit": 1,
+        "width": 1.3314,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.hint",
+        "source": "Drag nodes on the canvas to reshape color.",
+        "text": "キャンバスのノードをドラッグして色を調整。",
+        "fit": 1,
+        "width": 1.254,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.nodeColor.title",
+        "source": "Node Color",
+        "text": "ノードのカラー",
+        "fit": 1,
+        "width": 0.6225,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.nodes.title",
+        "source": "Color Nodes",
+        "text": "カラーノード",
+        "fit": 1,
+        "width": 0.5207,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.presets.title",
+        "source": "Presets",
+        "text": "プリセット",
+        "fit": 1,
+        "width": 0.4347,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.savePreset.label",
+        "source": "Save Preset",
+        "text": "プリセットを保存",
+        "fit": 0.7562,
+        "width": 0.3509,
+        "budget": 0.3509
+      },
+      {
+        "name": "Inspector.smoothness.label",
+        "source": "Smoothness",
+        "text": "なめらかさ",
+        "fit": 1,
+        "width": 0.3961,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.smoothness.value",
+        "source": "80 %",
+        "text": "80 %",
+        "fit": 1,
+        "width": 0.1807,
+        "budget": 0.2
+      },
+      {
+        "name": "Inspector.subtitle",
+        "source": "Gradient layer",
+        "text": "グラデーションレイヤー",
+        "fit": 1,
+        "width": 0.7807,
+        "budget": 1.86
+      },
+      {
+        "name": "Layers.BlendMode.label",
+        "source": "Blend Mode",
+        "text": "描画モード",
+        "fit": 1,
+        "width": 0.4068,
+        "budget": 0.64
+      },
+      {
+        "name": "Layers.BlendMode.value",
+        "source": "Normal",
+        "text": "通常",
+        "fit": 1,
+        "width": 0.1552,
+        "budget": 0.92
+      },
+      {
+        "name": "Layers.button.label",
+        "source": "Layers",
+        "text": "レイヤー",
+        "fit": 1,
+        "width": 0.3389,
+        "budget": 0.44
+      },
+      {
+        "name": "Layers.footer.FX",
+        "source": "FX",
+        "text": "FX",
+        "fit": 1,
+        "width": 0.1013,
+        "budget": 0.78
+      },
+      {
+        "name": "Layers.heading",
+        "source": "Layers",
+        "text": "レイヤー",
+        "fit": 1,
+        "width": 0.4526,
+        "budget": 1.73
+      },
+      {
+        "name": "Layers.opacity.label",
+        "source": "Opacity",
+        "text": "不透明度",
+        "fit": 1,
+        "width": 0.3082,
+        "budget": 1.73
+      },
+      {
+        "name": "Layers.opacity.value",
+        "source": "100 %",
+        "text": "100 %",
+        "fit": 1,
+        "width": 0.211,
+        "budget": 0.2321
+      },
+      {
+        "name": "Layers.row0.title",
+        "source": "Pen Path",
+        "text": "ペンパス",
+        "fit": 1,
+        "width": 0.3199,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row1.title",
+        "source": "Adjustment Layer",
+        "text": "調整レイヤー",
+        "fit": 1,
+        "width": 0.486,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row2.subtitle",
+        "source": "Mask · Effects: 2",
+        "text": "マスク · エフェクト：2",
+        "fit": 1,
+        "width": 0.6726,
+        "budget": 0.89
+      },
+      {
+        "name": "Layers.row2.title",
+        "source": "Shape",
+        "text": "シェイプ",
+        "fit": 1,
+        "width": 0.3224,
+        "budget": 0.89
+      },
+      {
+        "name": "Layers.row3.title",
+        "source": "TEXT",
+        "text": "テキスト",
+        "fit": 1,
+        "width": 0.3119,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row4.subtitle",
+        "source": "Effects: 3",
+        "text": "エフェクト：3",
+        "fit": 1,
+        "width": 0.3981,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row4.title",
+        "source": "Super Gradient",
+        "text": "スーパーグラデーション",
+        "fit": 1,
+        "width": 0.8979,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row5.subtitle",
+        "source": "Effects: 3",
+        "text": "エフェクト：3",
+        "fit": 1,
+        "width": 0.3981,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row5.title",
+        "source": "Empty Layer",
+        "text": "空のレイヤー",
+        "fit": 1,
+        "width": 0.4831,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.search.placeholder",
+        "source": "Find Layers",
+        "text": "レイヤーを検索",
+        "fit": 1,
+        "width": 0.5209,
+        "budget": 1.55
+      },
+      {
+        "name": "Pro.label",
+        "source": "Pro",
+        "text": "プロ",
+        "fit": 1,
+        "width": 0.1553,
+        "budget": 0.23
+      },
+      {
+        "name": "ProjectName",
+        "source": "Untitled",
+        "text": "Untitled",
+        "fit": 1,
+        "width": 0.3345,
+        "budget": 0.44
+      },
+      {
+        "name": "Smart.label",
+        "source": "Smart",
+        "text": "スマート",
+        "fit": 0.8641,
+        "width": 0.29,
+        "budget": 0.29
+      },
+      {
+        "name": "StartPage.label",
+        "source": "Start Page",
+        "text": "スタートページ",
+        "fit": 1,
+        "width": 0.643,
+        "budget": 1.7
+      },
+      {
+        "name": "Switcher.Basic.label",
+        "source": "Basic",
+        "text": "基本",
+        "fit": 1,
+        "width": 0.1138,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Curves.label",
+        "source": "Curves",
+        "text": "トーンカーブ",
+        "fit": 1,
+        "width": 0.3296,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Film Grain.label",
+        "source": "Film Grain",
+        "text": "フィルム粒子",
+        "fit": 1,
+        "width": 0.3393,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Gradient.label",
+        "source": "Gradient",
+        "text": "グラデーション",
+        "fit": 1,
+        "width": 0.4012,
+        "budget": 0.45
+      },
+      {
+        "name": "Titlebar.About",
+        "source": "About",
+        "text": "情報",
+        "fit": 1,
+        "width": 0.1853,
+        "budget": 0.37
+      },
+      {
+        "name": "Titlebar.Extensions",
+        "source": "Extensions",
+        "text": "機能拡張",
+        "fit": 1,
+        "width": 0.3743,
+        "budget": 0.56
+      },
+      {
+        "name": "Titlebar.Projects",
+        "source": "Projects",
+        "text": "プロジェクト",
+        "fit": 0.8667,
+        "width": 0.47,
+        "budget": 0.47
+      },
+      {
+        "name": "Titlebar.Settings",
+        "source": "Settings",
+        "text": "設定",
+        "fit": 1,
+        "width": 0.1823,
+        "budget": 0.46
+      },
+      {
+        "name": "Titlebar.···",
+        "source": "···",
+        "text": "···",
+        "fit": 1,
+        "width": 0.2104,
+        "budget": 0.2314
+      },
+      {
+        "name": "Toolbar.heading",
+        "source": "Super Gradient",
+        "text": "スーパーグラデーション",
+        "fit": 1,
+        "width": 1.0358,
+        "budget": 2.5
+      },
+      {
+        "name": "Toolbar.hint",
+        "source": "Use on the canvas.",
+        "text": "キャンバス上で操作します。",
+        "fit": 1,
+        "width": 0.937,
+        "budget": 3.4
+      },
+      {
+        "name": "ToolPicker.label",
+        "source": "Super Gradient",
+        "text": "スーパーグラデーション",
+        "fit": 0.8235,
+        "width": 0.78,
+        "budget": 0.78
+      },
+      {
+        "name": "Tools.heading",
+        "source": "Canvas",
+        "text": "キャンバス",
+        "fit": 1,
+        "width": 0.6119,
+        "budget": 2.1
+      },
+      {
+        "name": "Tools.hint.line1",
+        "source": "Click a category for its last-used tool;",
+        "text": "カテゴリをクリックして前のツールを使用。",
+        "fit": 1,
+        "width": 1.3673,
+        "budget": 2.2
+      },
+      {
+        "name": "Tools.hint.line2",
+        "source": "hover to choose another tool.",
+        "text": "ほかのツールはホバーで選択。",
+        "fit": 1,
+        "width": 0.9405,
+        "budget": 2.2
+      },
+      {
+        "name": "Tools.tool.Crop.label",
+        "source": "Crop",
+        "text": "切り抜き",
+        "fit": 1,
+        "width": 0.3777,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Eyedropper.label",
+        "source": "Eyedropper",
+        "text": "スポイト",
+        "fit": 1,
+        "width": 0.3697,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Hand.label",
+        "source": "Hand",
+        "text": "手のひら",
+        "fit": 1,
+        "width": 0.3748,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Move.label",
+        "source": "Move",
+        "text": "移動",
+        "fit": 1,
+        "width": 0.1883,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Zoom.label",
+        "source": "Zoom",
+        "text": "ズーム",
+        "fit": 1,
+        "width": 0.2819,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.heading",
+        "source": "Brush",
+        "text": "ブラシ",
+        "fit": 1,
+        "width": 0.3557,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Brush.row0.label",
+        "source": "Standard Brush",
+        "text": "標準ブラシ",
+        "fit": 1,
+        "width": 0.4455,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row1.label",
+        "source": "Pencil",
+        "text": "鉛筆",
+        "fit": 1,
+        "width": 0.1759,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row2.label",
+        "source": "Marker",
+        "text": "マーカー",
+        "fit": 1,
+        "width": 0.3463,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row3.label",
+        "source": "Airbrush",
+        "text": "エアブラシ",
+        "fit": 1,
+        "width": 0.4406,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row4.label",
+        "source": "Watercolor",
+        "text": "水彩",
+        "fit": 1,
+        "width": 0.1773,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row5.label",
+        "source": "Oil Paint",
+        "text": "油彩",
+        "fit": 1,
+        "width": 0.177,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row6.label",
+        "source": "Texture Brush",
+        "text": "テクスチャブラシ",
+        "fit": 1,
+        "width": 0.7127,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row7.label",
+        "source": "Eraser",
+        "text": "消しゴム",
+        "fit": 1,
+        "width": 0.356,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.heading",
+        "source": "Fill",
+        "text": "塗りつぶし",
+        "fit": 1,
+        "width": 0.6198,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Fill.row0.label",
+        "source": "Linear Gradient",
+        "text": "線形グラデーション",
+        "fit": 1,
+        "width": 0.8102,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row1.label",
+        "source": "Radial Gradient",
+        "text": "円形グラデーション",
+        "fit": 1,
+        "width": 0.8051,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row2.label",
+        "source": "Super Gradient",
+        "text": "スーパーグラデーション",
+        "fit": 1,
+        "width": 0.9865,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row3.label",
+        "source": "Paint Bucket",
+        "text": "塗りつぶし",
+        "fit": 1,
+        "width": 0.4431,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row4.label",
+        "source": "Color Fill",
+        "text": "カラー塗りつぶし",
+        "fit": 1,
+        "width": 0.7105,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Path.heading",
+        "source": "Path",
+        "text": "パス",
+        "fit": 1,
+        "width": 0.2352,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Path.row0.label",
+        "source": "Pen Path",
+        "text": "ペンパス",
+        "fit": 1,
+        "width": 0.3514,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Path.row1.label",
+        "source": "Freeform Path",
+        "text": "フリーハンドパス",
+        "fit": 1,
+        "width": 0.707,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.heading",
+        "source": "Retouch",
+        "text": "レタッチ",
+        "fit": 1,
+        "width": 0.4714,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Retouch.row0.label",
+        "source": "Smart Repair",
+        "text": "スマート修復",
+        "fit": 1,
+        "width": 0.5361,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row1.label",
+        "source": "Texture Smoothing",
+        "text": "テクスチャをなめらかに",
+        "fit": 1,
+        "width": 0.9845,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row2.label",
+        "source": "Clone Stamp",
+        "text": "コピースタンプ",
+        "fit": 1,
+        "width": 0.6223,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row3.label",
+        "source": "Dodge",
+        "text": "覆い焼き",
+        "fit": 1,
+        "width": 0.3492,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row4.label",
+        "source": "Burn",
+        "text": "焼き込み",
+        "fit": 1,
+        "width": 0.3574,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row5.label",
+        "source": "Sponge",
+        "text": "スポンジ",
+        "fit": 1,
+        "width": 0.3512,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row6.label",
+        "source": "Blur Brush",
+        "text": "ぼかしブラシ",
+        "fit": 1,
+        "width": 0.5315,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row7.label",
+        "source": "Sharpen Brush",
+        "text": "シャープブラシ",
+        "fit": 1,
+        "width": 0.6209,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row8.label",
+        "source": "Smudge",
+        "text": "指先",
+        "fit": 1,
+        "width": 0.1761,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row9.label",
+        "source": "Liquify Push",
+        "text": "ゆがみ・前方ワープ",
+        "fit": 1,
+        "width": 0.8068,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.heading",
+        "source": "Selection",
+        "text": "選択",
+        "fit": 1,
+        "width": 0.248,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Selection.row0.label",
+        "source": "Quick Selection",
+        "text": "クイック選択",
+        "fit": 1,
+        "width": 0.5366,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row1.label",
+        "source": "Rectangular Marquee",
+        "text": "長方形選択",
+        "fit": 1,
+        "width": 0.4494,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row2.label",
+        "source": "Elliptical Marquee",
+        "text": "楕円形選択",
+        "fit": 1,
+        "width": 0.4515,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row3.label",
+        "source": "Lasso",
+        "text": "なげなわ",
+        "fit": 1,
+        "width": 0.3503,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row4.label",
+        "source": "Polygonal Lasso",
+        "text": "多角形選択",
+        "fit": 1,
+        "width": 0.4477,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row5.label",
+        "source": "Color Range",
+        "text": "色域指定",
+        "fit": 1,
+        "width": 0.3583,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.heading",
+        "source": "Shape",
+        "text": "シェイプ",
+        "fit": 1,
+        "width": 0.4954,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Shape.row0.label",
+        "source": "Rectangle",
+        "text": "長方形",
+        "fit": 1,
+        "width": 0.2666,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row1.label",
+        "source": "Rounded Rectangle",
+        "text": "角丸長方形",
+        "fit": 1,
+        "width": 0.4485,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row2.label",
+        "source": "Ellipse",
+        "text": "楕円",
+        "fit": 1,
+        "width": 0.1726,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row3.label",
+        "source": "Polygon",
+        "text": "多角形",
+        "fit": 1,
+        "width": 0.2648,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row4.label",
+        "source": "Star",
+        "text": "星",
+        "fit": 1,
+        "width": 0.0819,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row5.label",
+        "source": "Line",
+        "text": "直線",
+        "fit": 1,
+        "width": 0.1758,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row6.label",
+        "source": "Custom Shape",
+        "text": "カスタムシェイプ",
+        "fit": 1,
+        "width": 0.7182,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Text.heading",
+        "source": "Text",
+        "text": "テキスト",
+        "fit": 1,
+        "width": 0.4792,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Text.row0.label",
+        "source": "Horizontal Text",
+        "text": "横書きテキスト",
+        "fit": 1,
+        "width": 0.622,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Text.row1.label",
+        "source": "Vertical Text",
+        "text": "縦書きテキスト",
+        "fit": 1,
+        "width": 0.6214,
+        "budget": 1.65
+      }
+    ],
+    "appearances": [
+      "light",
+      "dark"
+    ]
+  },
+  "ko": {
+    "textObjects": 185,
+    "items": [
+      {
+        "name": "BasicInspector.BlendMode.label",
+        "source": "Blend Mode",
+        "text": "혼합 모드",
+        "fit": 1,
+        "width": 0.3195,
+        "budget": 0.64
+      },
+      {
+        "name": "BasicInspector.BlendMode.value",
+        "source": "Normal",
+        "text": "표준",
+        "fit": 1,
+        "width": 0.1434,
+        "budget": 1.05
+      },
+      {
+        "name": "BasicInspector.center0.label",
+        "source": "Center on Canvas",
+        "text": "캔버스 가운데로",
+        "fit": 1,
+        "width": 0.3174,
+        "budget": 0.79
+      },
+      {
+        "name": "BasicInspector.center1.label",
+        "source": "Center Relative to Layers",
+        "text": "다른 레이어 기준으로 가운데 정렬",
+        "fit": 1,
+        "width": 0.6568,
+        "budget": 0.79
+      },
+      {
+        "name": "BasicInspector.dimensions.heading",
+        "source": "Dimensions",
+        "text": "크기",
+        "fit": 1,
+        "width": 0.128,
+        "budget": 0.82
+      },
+      {
+        "name": "BasicInspector.H.label",
+        "source": "H",
+        "text": "높이",
+        "fit": 1,
+        "width": 0.1263,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.H.value",
+        "source": "1080 px",
+        "text": "1080 px",
+        "fit": 1,
+        "width": 0.2626,
+        "budget": 0.2889
+      },
+      {
+        "name": "BasicInspector.heading",
+        "source": "Basic",
+        "text": "기본",
+        "fit": 1,
+        "width": 0.2132,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.hint",
+        "source": "Original content preserved · Strokes: 0",
+        "text": "원본 내용 유지 · 획: 0",
+        "fit": 1,
+        "width": 0.5766,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Opacity.label",
+        "source": "Opacity",
+        "text": "불투명도",
+        "fit": 1,
+        "width": 0.2747,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Opacity.value",
+        "source": "100 %",
+        "text": "100 %",
+        "fit": 1,
+        "width": 0.2061,
+        "budget": 0.2267
+      },
+      {
+        "name": "BasicInspector.position.heading",
+        "source": "Position",
+        "text": "위치",
+        "fit": 1,
+        "width": 0.1281,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Rotation.label",
+        "source": "Rotation",
+        "text": "회전",
+        "fit": 1,
+        "width": 0.1298,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.Rotation.value",
+        "source": "0 °",
+        "text": "0 °",
+        "fit": 1,
+        "width": 0.0815,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.subtitle",
+        "source": "Empty Layer",
+        "text": "빈 레이어",
+        "fit": 1,
+        "width": 0.2656,
+        "budget": 1.86
+      },
+      {
+        "name": "BasicInspector.W.label",
+        "source": "W",
+        "text": "너비",
+        "fit": 1,
+        "width": 0.1226,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.W.value",
+        "source": "1920 px",
+        "text": "1920 px",
+        "fit": 1,
+        "width": 0.2626,
+        "budget": 0.2889
+      },
+      {
+        "name": "BasicInspector.X.label",
+        "source": "X",
+        "text": "X",
+        "fit": 1,
+        "width": 0.0424,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.X.value",
+        "source": "0 px",
+        "text": "0 px",
+        "fit": 1,
+        "width": 0.1397,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.Y.label",
+        "source": "Y",
+        "text": "Y",
+        "fit": 1,
+        "width": 0.0417,
+        "budget": 0.2
+      },
+      {
+        "name": "BasicInspector.Y.value",
+        "source": "0 px",
+        "text": "0 px",
+        "fit": 1,
+        "width": 0.1397,
+        "budget": 0.2
+      },
+      {
+        "name": "Effects.button.label",
+        "source": "Effects",
+        "text": "효과",
+        "fit": 1,
+        "width": 0.1672,
+        "budget": 0.57
+      },
+      {
+        "name": "Effects.category0.label",
+        "source": "Color",
+        "text": "색상",
+        "fit": 1,
+        "width": 0.1225,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category0.line2",
+        "source": "Adjustments",
+        "text": "조정",
+        "fit": 1,
+        "width": 0.1163,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category1.label",
+        "source": "Blur & Sharpen",
+        "text": "흐림 및 선명하게",
+        "fit": 1,
+        "width": 0.4669,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category2.label",
+        "source": "Distortion",
+        "text": "왜곡",
+        "fit": 1,
+        "width": 0.1218,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category3.label",
+        "source": "Light & Texture",
+        "text": "빛 및 질감",
+        "fit": 1,
+        "width": 0.2774,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category4.label",
+        "source": "Layer Styles",
+        "text": "레이어 스타일",
+        "fit": 1,
+        "width": 0.3861,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.category5.label",
+        "source": "Portrait",
+        "text": "인물",
+        "fit": 1,
+        "width": 0.1197,
+        "budget": 0.73
+      },
+      {
+        "name": "Effects.effect0.detail",
+        "source": "Exposure, contrast, saturation",
+        "text": "노출·대비·채도",
+        "fit": 1,
+        "width": 0.3927,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect0.name",
+        "source": "Basic Adjustments",
+        "text": "기본 조정",
+        "fit": 1,
+        "width": 0.2653,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect1.detail",
+        "source": "Adjust hue and color intensity",
+        "text": "색조와 색상 강도 조정",
+        "fit": 1,
+        "width": 0.4647,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect1.name",
+        "source": "Hue & Saturation",
+        "text": "색조 및 채도",
+        "fit": 1,
+        "width": 0.3524,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect10.detail",
+        "source": "Explore monochrome tones",
+        "text": "흑백 색조 탐색",
+        "fit": 1,
+        "width": 0.3077,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect10.name",
+        "source": "Black & White",
+        "text": "흑백",
+        "fit": 1,
+        "width": 0.1203,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect2.detail",
+        "source": "Control eight color ranges",
+        "text": "8가지 색상 범위 조정",
+        "fit": 1,
+        "width": 0.4455,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect2.name",
+        "source": "Selective Color",
+        "text": "선택 색상",
+        "fit": 1,
+        "width": 0.2722,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect3.detail",
+        "source": "Black, white and midtones",
+        "text": "검정·흰색·중간톤",
+        "fit": 1,
+        "width": 0.4407,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect3.name",
+        "source": "Levels",
+        "text": "레벨",
+        "fit": 1,
+        "width": 0.1208,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect4.detail",
+        "source": "RGB curves with a histogram",
+        "text": "RGB 곡선 및 히스토그램",
+        "fit": 1,
+        "width": 0.5186,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect4.name",
+        "source": "Curves",
+        "text": "곡선",
+        "fit": 1,
+        "width": 0.1205,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect5.detail",
+        "source": "Highlights, midtones, shadows",
+        "text": "밝은 영역·중간톤·어두운 영역",
+        "fit": 1,
+        "width": 0.7018,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect5.name",
+        "source": "Color Wheels",
+        "text": "색상환",
+        "fit": 1,
+        "width": 0.1909,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect6.detail",
+        "source": "Replace a chosen color range",
+        "text": "선택한 색상 범위 대체",
+        "fit": 1,
+        "width": 0.4656,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect6.name",
+        "source": "Replace Color",
+        "text": "색상 대체",
+        "fit": 1,
+        "width": 0.2674,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect7.detail",
+        "source": "Make a target color transparent",
+        "text": "지정한 색상을 투명하게",
+        "fit": 1,
+        "width": 0.5024,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect7.name",
+        "source": "Remove Color",
+        "text": "색상 제거",
+        "fit": 1,
+        "width": 0.2657,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect8.detail",
+        "source": "A softly faded look",
+        "text": "부드러운 빛바랜 느낌",
+        "fit": 1,
+        "width": 0.4523,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect8.name",
+        "source": "Fade",
+        "text": "페이드",
+        "fit": 1,
+        "width": 0.1906,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.effect9.detail",
+        "source": "Balance shadows and highlights",
+        "text": "어두운 영역과 밝은 영역의 균형",
+        "fit": 1,
+        "width": 0.67,
+        "budget": 1.35
+      },
+      {
+        "name": "Effects.effect9.name",
+        "source": "Smart HDR",
+        "text": "스마트 HDR",
+        "fit": 1,
+        "width": 0.3532,
+        "budget": 1.38
+      },
+      {
+        "name": "Effects.heading",
+        "source": "Effects",
+        "text": "효과",
+        "fit": 1,
+        "width": 0.2168,
+        "budget": 2.7
+      },
+      {
+        "name": "Effects.hint",
+        "source": "Effects stay editable and can be disabled.",
+        "text": "효과는 언제든 편집하거나 끌 수 있습니다.",
+        "fit": 1,
+        "width": 1.0788,
+        "budget": 2.7
+      },
+      {
+        "name": "Effects.list.title",
+        "source": "Color Adjustments",
+        "text": "색상 조정",
+        "fit": 1,
+        "width": 0.2864,
+        "budget": 0.7195
+      },
+      {
+        "name": "Effects.search.placeholder",
+        "source": "Find Effects",
+        "text": "효과 찾기",
+        "fit": 1,
+        "width": 0.2892,
+        "budget": 2.52
+      },
+      {
+        "name": "Effects.subtitle",
+        "source": "Adding an effect creates an FX layer.",
+        "text": "효과를 추가하면 FX 레이어가 생성됩니다.",
+        "fit": 1,
+        "width": 1.2161,
+        "budget": 2.7
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.heading",
+        "source": "Blur & Sharpen",
+        "text": "흐림 및 선명하게",
+        "fit": 1,
+        "width": 0.516,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row0.label",
+        "source": "Gaussian Blur",
+        "text": "가우시안 흐림",
+        "fit": 1,
+        "width": 0.4009,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row1.label",
+        "source": "Motion Blur",
+        "text": "동작 흐림",
+        "fit": 1,
+        "width": 0.2688,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row2.label",
+        "source": "Focus Blur",
+        "text": "초점 흐림",
+        "fit": 1,
+        "width": 0.2688,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.BlurSharpen.row3.label",
+        "source": "Sharpen",
+        "text": "선명하게",
+        "fit": 1,
+        "width": 0.2547,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport0.label",
+        "source": "Colorize",
+        "text": "색상화",
+        "fit": 1,
+        "width": 0.1912,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport1.label",
+        "source": "Channel Mixer",
+        "text": "채널 혼합",
+        "fit": 1,
+        "width": 0.2728,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.ColorAdjustments.belowViewport2.label",
+        "source": "LUT",
+        "text": "LUT",
+        "fit": 1,
+        "width": 0.1238,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.heading",
+        "source": "Distortion",
+        "text": "왜곡",
+        "fit": 1,
+        "width": 0.1346,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row0.label",
+        "source": "Bump Distortion",
+        "text": "돌출 왜곡",
+        "fit": 1,
+        "width": 0.2742,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row1.label",
+        "source": "Pinch Distortion",
+        "text": "오목 왜곡",
+        "fit": 1,
+        "width": 0.2742,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row2.label",
+        "source": "Stretch Distortion",
+        "text": "늘이기 왜곡",
+        "fit": 1,
+        "width": 0.3404,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row3.label",
+        "source": "Twirl Distortion",
+        "text": "비틀기 왜곡",
+        "fit": 1,
+        "width": 0.3367,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Distortion.row4.label",
+        "source": "Wave Distortion",
+        "text": "파형 왜곡",
+        "fit": 1,
+        "width": 0.2751,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.heading",
+        "source": "Layer Styles",
+        "text": "레이어 스타일",
+        "fit": 1,
+        "width": 0.4267,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row0.label",
+        "source": "Stroke",
+        "text": "획",
+        "fit": 1,
+        "width": 0.0539,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row1.label",
+        "source": "Shadow",
+        "text": "그림자",
+        "fit": 1,
+        "width": 0.1939,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row2.label",
+        "source": "Inner Shadow",
+        "text": "내부 그림자",
+        "fit": 1,
+        "width": 0.3391,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row3.label",
+        "source": "Outer Glow",
+        "text": "외부 광선",
+        "fit": 1,
+        "width": 0.2702,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row4.label",
+        "source": "Inner Glow",
+        "text": "내부 광선",
+        "fit": 1,
+        "width": 0.2674,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row5.label",
+        "source": "Bevel & Emboss",
+        "text": "경사와 엠보스",
+        "fit": 1,
+        "width": 0.4061,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LayerStyles.row6.label",
+        "source": "Fill Style",
+        "text": "채우기 스타일",
+        "fit": 1,
+        "width": 0.4041,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.heading",
+        "source": "Light & Texture",
+        "text": "빛 및 질감",
+        "fit": 1,
+        "width": 0.3065,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row0.label",
+        "source": "Bloom",
+        "text": "블룸",
+        "fit": 1,
+        "width": 0.126,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row1.label",
+        "source": "Film Grain",
+        "text": "필름 입자",
+        "fit": 1,
+        "width": 0.2751,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row2.label",
+        "source": "Vignette",
+        "text": "비네팅",
+        "fit": 1,
+        "width": 0.1833,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.LightTexture.row3.label",
+        "source": "Pixelate",
+        "text": "픽셀화",
+        "fit": 1,
+        "width": 0.1925,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.heading",
+        "source": "Portrait",
+        "text": "인물",
+        "fit": 1,
+        "width": 0.1322,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.row0.label",
+        "source": "Beauty",
+        "text": "얼굴 보정",
+        "fit": 1,
+        "width": 0.2684,
+        "budget": 1.45
+      },
+      {
+        "name": "EffectsPage.Portrait.row1.label",
+        "source": "Body",
+        "text": "체형 보정",
+        "fit": 1,
+        "width": 0.27,
+        "budget": 1.45
+      },
+      {
+        "name": "Export.label",
+        "source": "Export",
+        "text": "내보내기",
+        "fit": 1,
+        "width": 0.3126,
+        "budget": 0.37
+      },
+      {
+        "name": "Inspector.button.label",
+        "source": "Inspector",
+        "text": "속성",
+        "fit": 1,
+        "width": 0.1512,
+        "budget": 0.4
+      },
+      {
+        "name": "Inspector.heading",
+        "source": "Super Gradient",
+        "text": "슈퍼 그레이디언트",
+        "fit": 1,
+        "width": 0.9208,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.hint",
+        "source": "Drag nodes on the canvas to reshape color.",
+        "text": "캔버스의 노드를 드래그해 색상을 조정하세요.",
+        "fit": 1,
+        "width": 1.1477,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.nodeColor.title",
+        "source": "Node Color",
+        "text": "노드 색상",
+        "fit": 1,
+        "width": 0.352,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.nodes.title",
+        "source": "Color Nodes",
+        "text": "색상 노드",
+        "fit": 1,
+        "width": 0.3439,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.presets.title",
+        "source": "Presets",
+        "text": "사전 설정",
+        "fit": 1,
+        "width": 0.3454,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.savePreset.label",
+        "source": "Save Preset",
+        "text": "사전 설정 저장",
+        "fit": 1,
+        "width": 0.3499,
+        "budget": 0.3509
+      },
+      {
+        "name": "Inspector.smoothness.label",
+        "source": "Smoothness",
+        "text": "부드러움",
+        "fit": 1,
+        "width": 0.2973,
+        "budget": 1.86
+      },
+      {
+        "name": "Inspector.smoothness.value",
+        "source": "80 %",
+        "text": "80 %",
+        "fit": 1,
+        "width": 0.1807,
+        "budget": 0.2
+      },
+      {
+        "name": "Inspector.subtitle",
+        "source": "Gradient layer",
+        "text": "그레이디언트 레이어",
+        "fit": 1,
+        "width": 0.5998,
+        "budget": 1.86
+      },
+      {
+        "name": "Layers.BlendMode.label",
+        "source": "Blend Mode",
+        "text": "혼합 모드",
+        "fit": 1,
+        "width": 0.3195,
+        "budget": 0.64
+      },
+      {
+        "name": "Layers.BlendMode.value",
+        "source": "Normal",
+        "text": "표준",
+        "fit": 1,
+        "width": 0.1434,
+        "budget": 0.92
+      },
+      {
+        "name": "Layers.button.label",
+        "source": "Layers",
+        "text": "레이어",
+        "fit": 1,
+        "width": 0.2359,
+        "budget": 0.44
+      },
+      {
+        "name": "Layers.footer.FX",
+        "source": "FX",
+        "text": "FX",
+        "fit": 1,
+        "width": 0.1013,
+        "budget": 0.78
+      },
+      {
+        "name": "Layers.heading",
+        "source": "Layers",
+        "text": "레이어",
+        "fit": 1,
+        "width": 0.315,
+        "budget": 1.73
+      },
+      {
+        "name": "Layers.opacity.label",
+        "source": "Opacity",
+        "text": "불투명도",
+        "fit": 1,
+        "width": 0.2812,
+        "budget": 1.73
+      },
+      {
+        "name": "Layers.opacity.value",
+        "source": "100 %",
+        "text": "100 %",
+        "fit": 1,
+        "width": 0.211,
+        "budget": 0.2321
+      },
+      {
+        "name": "Layers.row0.title",
+        "source": "Pen Path",
+        "text": "펜 패스",
+        "fit": 1,
+        "width": 0.2402,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row1.title",
+        "source": "Adjustment Layer",
+        "text": "조정 레이어",
+        "fit": 1,
+        "width": 0.386,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row2.subtitle",
+        "source": "Mask · Effects: 2",
+        "text": "마스크 · 효과: 2",
+        "fit": 1,
+        "width": 0.4323,
+        "budget": 0.89
+      },
+      {
+        "name": "Layers.row2.title",
+        "source": "Shape",
+        "text": "도형",
+        "fit": 1,
+        "width": 0.1393,
+        "budget": 0.89
+      },
+      {
+        "name": "Layers.row3.title",
+        "source": "TEXT",
+        "text": "텍스트",
+        "fit": 1,
+        "width": 0.2179,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row4.subtitle",
+        "source": "Effects: 3",
+        "text": "효과: 3",
+        "fit": 1,
+        "width": 0.1737,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row4.title",
+        "source": "Super Gradient",
+        "text": "슈퍼 그레이디언트",
+        "fit": 1,
+        "width": 0.621,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row5.subtitle",
+        "source": "Effects: 3",
+        "text": "효과: 3",
+        "fit": 1,
+        "width": 0.1737,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.row5.title",
+        "source": "Empty Layer",
+        "text": "빈 레이어",
+        "fit": 1,
+        "width": 0.3058,
+        "budget": 1.16
+      },
+      {
+        "name": "Layers.search.placeholder",
+        "source": "Find Layers",
+        "text": "레이어 찾기",
+        "fit": 1,
+        "width": 0.3582,
+        "budget": 1.55
+      },
+      {
+        "name": "Pro.label",
+        "source": "Pro",
+        "text": "프로",
+        "fit": 1,
+        "width": 0.1561,
+        "budget": 0.23
+      },
+      {
+        "name": "ProjectName",
+        "source": "Untitled",
+        "text": "Untitled",
+        "fit": 1,
+        "width": 0.3345,
+        "budget": 0.44
+      },
+      {
+        "name": "Smart.label",
+        "source": "Smart",
+        "text": "스마트",
+        "fit": 1,
+        "width": 0.2382,
+        "budget": 0.29
+      },
+      {
+        "name": "StartPage.label",
+        "source": "Start Page",
+        "text": "시작 페이지",
+        "fit": 1,
+        "width": 0.437,
+        "budget": 1.7
+      },
+      {
+        "name": "Switcher.Basic.label",
+        "source": "Basic",
+        "text": "기본",
+        "fit": 1,
+        "width": 0.1016,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Curves.label",
+        "source": "Curves",
+        "text": "곡선",
+        "fit": 1,
+        "width": 0.099,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Film Grain.label",
+        "source": "Film Grain",
+        "text": "필름 입자",
+        "fit": 1,
+        "width": 0.2231,
+        "budget": 0.45
+      },
+      {
+        "name": "Switcher.Gradient.label",
+        "source": "Gradient",
+        "text": "그레이디언트",
+        "fit": 1,
+        "width": 0.3167,
+        "budget": 0.45
+      },
+      {
+        "name": "Titlebar.About",
+        "source": "About",
+        "text": "정보",
+        "fit": 1,
+        "width": 0.1655,
+        "budget": 0.37
+      },
+      {
+        "name": "Titlebar.Extensions",
+        "source": "Extensions",
+        "text": "확장 프로그램",
+        "fit": 1,
+        "width": 0.5303,
+        "budget": 0.56
+      },
+      {
+        "name": "Titlebar.Projects",
+        "source": "Projects",
+        "text": "프로젝트",
+        "fit": 1,
+        "width": 0.3398,
+        "budget": 0.47
+      },
+      {
+        "name": "Titlebar.Settings",
+        "source": "Settings",
+        "text": "설정",
+        "fit": 1,
+        "width": 0.1591,
+        "budget": 0.46
+      },
+      {
+        "name": "Titlebar.···",
+        "source": "···",
+        "text": "···",
+        "fit": 1,
+        "width": 0.2104,
+        "budget": 0.2314
+      },
+      {
+        "name": "Toolbar.heading",
+        "source": "Super Gradient",
+        "text": "슈퍼 그레이디언트",
+        "fit": 1,
+        "width": 0.7164,
+        "budget": 2.5
+      },
+      {
+        "name": "Toolbar.hint",
+        "source": "Use on the canvas.",
+        "text": "캔버스에서 사용하세요.",
+        "fit": 1,
+        "width": 0.733,
+        "budget": 3.4
+      },
+      {
+        "name": "ToolPicker.label",
+        "source": "Super Gradient",
+        "text": "슈퍼 그레이디언트",
+        "fit": 1,
+        "width": 0.6551,
+        "budget": 0.78
+      },
+      {
+        "name": "Tools.heading",
+        "source": "Canvas",
+        "text": "캔버스",
+        "fit": 1,
+        "width": 0.3391,
+        "budget": 2.1
+      },
+      {
+        "name": "Tools.hint.line1",
+        "source": "Click a category for its last-used tool;",
+        "text": "분류를 클릭하면 최근 도구를 사용합니다.",
+        "fit": 1,
+        "width": 1.1862,
+        "budget": 2.2
+      },
+      {
+        "name": "Tools.hint.line2",
+        "source": "hover to choose another tool.",
+        "text": "다른 도구는 마우스를 올려 선택하세요.",
+        "fit": 1,
+        "width": 1.118,
+        "budget": 2.2
+      },
+      {
+        "name": "Tools.tool.Crop.label",
+        "source": "Crop",
+        "text": "자르기",
+        "fit": 1,
+        "width": 0.2564,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Eyedropper.label",
+        "source": "Eyedropper",
+        "text": "스포이드",
+        "fit": 1,
+        "width": 0.3529,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Hand.label",
+        "source": "Hand",
+        "text": "손",
+        "fit": 1,
+        "width": 0.0814,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Move.label",
+        "source": "Move",
+        "text": "이동",
+        "fit": 1,
+        "width": 0.1686,
+        "budget": 1.65
+      },
+      {
+        "name": "Tools.tool.Zoom.label",
+        "source": "Zoom",
+        "text": "확대/축소",
+        "fit": 1,
+        "width": 0.392,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.heading",
+        "source": "Brush",
+        "text": "브러시",
+        "fit": 1,
+        "width": 0.3297,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Brush.row0.label",
+        "source": "Standard Brush",
+        "text": "일반 브러시",
+        "fit": 1,
+        "width": 0.4219,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row1.label",
+        "source": "Pencil",
+        "text": "연필",
+        "fit": 1,
+        "width": 0.154,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row2.label",
+        "source": "Marker",
+        "text": "마커",
+        "fit": 1,
+        "width": 0.149,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row3.label",
+        "source": "Airbrush",
+        "text": "에어브러시",
+        "fit": 1,
+        "width": 0.4023,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row4.label",
+        "source": "Watercolor",
+        "text": "수채화",
+        "fit": 1,
+        "width": 0.2447,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row5.label",
+        "source": "Oil Paint",
+        "text": "유화",
+        "fit": 1,
+        "width": 0.161,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row6.label",
+        "source": "Texture Brush",
+        "text": "질감 브러시",
+        "fit": 1,
+        "width": 0.4227,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Brush.row7.label",
+        "source": "Eraser",
+        "text": "지우개",
+        "fit": 1,
+        "width": 0.2383,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.heading",
+        "source": "Fill",
+        "text": "채우기",
+        "fit": 1,
+        "width": 0.3311,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Fill.row0.label",
+        "source": "Linear Gradient",
+        "text": "선형 그레이디언트",
+        "fit": 1,
+        "width": 0.6823,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row1.label",
+        "source": "Radial Gradient",
+        "text": "방사형 그레이디언트",
+        "fit": 1,
+        "width": 0.7626,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row2.label",
+        "source": "Super Gradient",
+        "text": "슈퍼 그레이디언트",
+        "fit": 1,
+        "width": 0.6823,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row3.label",
+        "source": "Paint Bucket",
+        "text": "페인트 통",
+        "fit": 1,
+        "width": 0.3479,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Fill.row4.label",
+        "source": "Color Fill",
+        "text": "색상 채우기",
+        "fit": 1,
+        "width": 0.424,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Path.heading",
+        "source": "Path",
+        "text": "패스",
+        "fit": 1,
+        "width": 0.224,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Path.row0.label",
+        "source": "Pen Path",
+        "text": "펜 패스",
+        "fit": 1,
+        "width": 0.2639,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Path.row1.label",
+        "source": "Freeform Path",
+        "text": "자유형 패스",
+        "fit": 1,
+        "width": 0.4325,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.heading",
+        "source": "Retouch",
+        "text": "리터치",
+        "fit": 1,
+        "width": 0.3234,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Retouch.row0.label",
+        "source": "Smart Repair",
+        "text": "스마트 복구",
+        "fit": 1,
+        "width": 0.4307,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row1.label",
+        "source": "Texture Smoothing",
+        "text": "질감 매끄럽게",
+        "fit": 1,
+        "width": 0.509,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row2.label",
+        "source": "Clone Stamp",
+        "text": "복제 도장",
+        "fit": 1,
+        "width": 0.3486,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row3.label",
+        "source": "Dodge",
+        "text": "닷지",
+        "fit": 1,
+        "width": 0.1484,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row4.label",
+        "source": "Burn",
+        "text": "번",
+        "fit": 1,
+        "width": 0.0665,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row5.label",
+        "source": "Sponge",
+        "text": "스폰지",
+        "fit": 1,
+        "width": 0.2358,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row6.label",
+        "source": "Blur Brush",
+        "text": "흐림 브러시",
+        "fit": 1,
+        "width": 0.4237,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row7.label",
+        "source": "Sharpen Brush",
+        "text": "선명하게 브러시",
+        "fit": 1,
+        "width": 0.5912,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row8.label",
+        "source": "Smudge",
+        "text": "손가락",
+        "fit": 1,
+        "width": 0.2445,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Retouch.row9.label",
+        "source": "Liquify Push",
+        "text": "픽셀 유동화 밀기",
+        "fit": 1,
+        "width": 0.6105,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.heading",
+        "source": "Selection",
+        "text": "선택",
+        "fit": 1,
+        "width": 0.2153,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Selection.row0.label",
+        "source": "Quick Selection",
+        "text": "빠른 선택",
+        "fit": 1,
+        "width": 0.3404,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row1.label",
+        "source": "Rectangular Marquee",
+        "text": "사각형 선택 윤곽",
+        "fit": 1,
+        "width": 0.6214,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row2.label",
+        "source": "Elliptical Marquee",
+        "text": "원형 선택 윤곽",
+        "fit": 1,
+        "width": 0.5368,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row3.label",
+        "source": "Lasso",
+        "text": "올가미",
+        "fit": 1,
+        "width": 0.2358,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row4.label",
+        "source": "Polygonal Lasso",
+        "text": "다각형 올가미",
+        "fit": 1,
+        "width": 0.5039,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Selection.row5.label",
+        "source": "Color Range",
+        "text": "색상 범위",
+        "fit": 1,
+        "width": 0.3402,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.heading",
+        "source": "Shape",
+        "text": "도형",
+        "fit": 1,
+        "width": 0.2137,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Shape.row0.label",
+        "source": "Rectangle",
+        "text": "사각형",
+        "fit": 1,
+        "width": 0.238,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row1.label",
+        "source": "Rounded Rectangle",
+        "text": "둥근 사각형",
+        "fit": 1,
+        "width": 0.4246,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row2.label",
+        "source": "Ellipse",
+        "text": "타원",
+        "fit": 1,
+        "width": 0.1505,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row3.label",
+        "source": "Polygon",
+        "text": "다각형",
+        "fit": 1,
+        "width": 0.2331,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row4.label",
+        "source": "Star",
+        "text": "별",
+        "fit": 1,
+        "width": 0.0676,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row5.label",
+        "source": "Line",
+        "text": "직선",
+        "fit": 1,
+        "width": 0.1534,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Shape.row6.label",
+        "source": "Custom Shape",
+        "text": "사용자 정의 도형",
+        "fit": 1,
+        "width": 0.6138,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Text.heading",
+        "source": "Text",
+        "text": "텍스트",
+        "fit": 1,
+        "width": 0.3347,
+        "budget": 2.1
+      },
+      {
+        "name": "ToolsPage.Text.row0.label",
+        "source": "Horizontal Text",
+        "text": "가로 텍스트",
+        "fit": 1,
+        "width": 0.4307,
+        "budget": 1.65
+      },
+      {
+        "name": "ToolsPage.Text.row1.label",
+        "source": "Vertical Text",
+        "text": "세로 텍스트",
+        "fit": 1,
+        "width": 0.432,
+        "budget": 1.65
+      }
+    ],
+    "appearances": [
+      "light",
+      "dark"
+    ]
+  }
+}

@@ -1,0 +1,3147 @@
+[
+  {
+    "name": "BasicInspector.BlendMode.label",
+    "text": "Blend Mode",
+    "size": 0.092,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -1.6699999570846558,
+      -3.7850000858306885,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.0004530044679995626,
+      6.869550998089835e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.BlendMode.value",
+    "text": "Normal",
+    "size": 0.09,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -0.8600000143051147,
+      -3.7850000858306885,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.0002751125139184296,
+      6.72225360176526e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.center0.label",
+    "text": "Center on Canvas",
+    "size": 0.053,
+    "align": "CENTER",
+    "parent": "BasicInspector",
+    "position": [
+      -1.2300000190734863,
+      -2.1600000858306885,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.00038952071918174624,
+      3.758126331376843e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.center1.label",
+    "text": "Center Relative to Layers",
+    "size": 0.053,
+    "align": "CENTER",
+    "parent": "BasicInspector",
+    "position": [
+      -0.19499999284744263,
+      -2.1600000858306885,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.0005549193010665476,
+      5.0604689022293314e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.dimensions.heading",
+    "text": "Dimensions",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -0.6299999952316284,
+      -1.090000033378601,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.0004094510222785175,
+      6.122815102571622e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.H.label",
+    "text": "H",
+    "size": 0.083,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -0.5600000023841858,
+      -1.7120000123977661,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.0720246033743024e-05,
+      5.6285643950104713e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.H.value",
+    "text": "1080 px",
+    "size": 0.083,
+    "align": "RIGHT",
+    "parent": "BasicInspector",
+    "position": [
+      0.16500000655651093,
+      -1.7120000123977661,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.0002626443456392735,
+      7.463713700417429e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.heading",
+    "text": "Basic",
+    "size": 0.135,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -1.6699999570846558,
+      -0.4699999988079071,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.00028916471637785435,
+      9.779365791473538e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.hint",
+    "text": "Original content preserved · Strokes: 0",
+    "size": 0.068,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -1.6699999570846558,
+      -4.21999979019165,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.0011399182258173823,
+      6.566682714037597e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.Opacity.label",
+    "text": "Opacity",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -1.6699999570846558,
+      -3.0899999141693115,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.00027158038574270904,
+      7.809713861206546e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.Opacity.value",
+    "text": "100 %",
+    "size": 0.084,
+    "align": "RIGHT",
+    "parent": "BasicInspector",
+    "position": [
+      0.20000000298023224,
+      -3.0899999141693115,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.00020608633349183947,
+      5.90753297728952e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.position.heading",
+    "text": "Position",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -1.6699999570846558,
+      -1.090000033378601,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.00028116474277339876,
+      6.122815830167383e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.Rotation.label",
+    "text": "Rotation",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -1.6699999570846558,
+      -2.5999999046325684,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.0002963824081234634,
+      6.122815102571622e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.Rotation.value",
+    "text": "0 °",
+    "size": 0.084,
+    "align": "RIGHT",
+    "parent": "BasicInspector",
+    "position": [
+      0.20000000298023224,
+      -2.5999999046325684,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      8.154545503202826e-05,
+      6.0496517107822e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.subtitle",
+    "text": "Empty Layer",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -1.6699999570846558,
+      -0.6600000262260437,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.00041286813211627305,
+      7.045335951261222e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.W.label",
+    "text": "W",
+    "size": 0.083,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -0.5600000023841858,
+      -1.3819999694824219,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.344445137074217e-05,
+      5.6285643950104713e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.W.value",
+    "text": "1920 px",
+    "size": 0.083,
+    "align": "RIGHT",
+    "parent": "BasicInspector",
+    "position": [
+      0.16500000655651093,
+      -1.3819999694824219,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.0002626443456392735,
+      7.463713700417429e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.X.label",
+    "text": "X",
+    "size": 0.083,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -1.5950000286102295,
+      -1.3819999694824219,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.235114829498343e-05,
+      5.6285643950104713e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.X.value",
+    "text": "0 px",
+    "size": 0.083,
+    "align": "RIGHT",
+    "parent": "BasicInspector",
+    "position": [
+      -0.8700000047683716,
+      -1.3819999694824219,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.00013971816224511713,
+      7.463713700417429e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.Y.label",
+    "text": "Y",
+    "size": 0.083,
+    "align": "LEFT",
+    "parent": "BasicInspector",
+    "position": [
+      -1.5950000286102295,
+      -1.7120000123977661,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.171826003585011e-05,
+      5.6285643950104713e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "BasicInspector.Y.value",
+    "text": "0 px",
+    "size": 0.083,
+    "align": "RIGHT",
+    "parent": "BasicInspector",
+    "position": [
+      -0.8700000047683716,
+      -1.7120000123977661,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      0.00013971816224511713,
+      7.463713700417429e-05,
+      4.5000006139162e-06
+    ]
+  },
+  {
+    "name": "Effects.button.label",
+    "text": "Effects",
+    "size": 0.104,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      4.230000019073486,
+      -3.0799999237060547,
+      0.20999999344348907
+    ],
+    "dimensions": [
+      0.28592538833618164,
+      0.07875122129917145,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Effects.category0.label",
+    "text": "Color",
+    "size": 0.076,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.4100000858306885,
+      3.7300000190734863,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.7163006305054296e-07,
+      5.691175886113342e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.category0.line2",
+    "text": "Adjustments",
+    "size": 0.076,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.4100000858306885,
+      3.609999895095825,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.0580110294285987e-07,
+      7.27253990362442e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.category1.label",
+    "text": "Blur & Sharpen",
+    "size": 0.076,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.4100000858306885,
+      3.3399999141693115,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.725524718196539e-07,
+      7.181738226336165e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.category2.label",
+    "text": "Distortion",
+    "size": 0.076,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.4100000858306885,
+      2.950000047683716,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.112068043265026e-07,
+      5.548921677700491e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.category3.label",
+    "text": "Light & Texture",
+    "size": 0.076,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.4100000858306885,
+      2.559999942779541,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.802352577826241e-07,
+      7.328475959411662e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.category4.label",
+    "text": "Layer Styles",
+    "size": 0.076,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.4100000858306885,
+      2.1700000762939453,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.783638646837062e-07,
+      7.217122544034282e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.category5.label",
+    "text": "Portrait",
+    "size": 0.076,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.4100000858306885,
+      1.7799999713897705,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.426733374250034e-07,
+      5.548921677700491e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect0.detail",
+    "text": "Exposure, contrast, saturation",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      3.4140000343322754,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      7.338852014981967e-07,
+      5.394273827619145e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect0.name",
+    "text": "Basic Adjustments",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      3.5199999809265137,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.008950776958955e-07,
+      7.461531481567363e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect1.detail",
+    "text": "Adjust hue and color intensity",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      3.13100004196167,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      7.328717970267462e-07,
+      5.5716149915951974e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect1.name",
+    "text": "Hue & Saturation",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      3.236999988555908,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.543395786844485e-07,
+      5.7025953736911106e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect10.detail",
+    "text": "Explore monochrome tones",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      0.5839999914169312,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.769578817511501e-07,
+      5.502115740796398e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect10.name",
+    "text": "Black & White",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      0.6899999976158142,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.4413749833438487e-07,
+      5.8486730125650865e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect2.detail",
+    "text": "Control eight color ranges",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      2.8480000495910645,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.347938210637949e-07,
+      5.6144422444504016e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect2.name",
+    "text": "Selective Color",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      2.9539999961853027,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.929327701574948e-07,
+      5.83847317159325e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect3.detail",
+    "text": "Black, white and midtones",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      2.565000057220459,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.462802843998361e-07,
+      5.323089524722491e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect3.name",
+    "text": "Levels",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      2.6710000038146973,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.9877445822658046e-07,
+      5.835973482248846e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect4.detail",
+    "text": "RGB curves with a histogram",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      2.2820000648498535,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.945483619347215e-07,
+      5.6144422444504016e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect4.name",
+    "text": "Curves",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      2.388000011444092,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.1974597075313795e-07,
+      5.484188037030435e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect5.detail",
+    "text": "Highlights, midtones, shadows",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      1.9989999532699585,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      7.499289154111466e-07,
+      5.6144422444504016e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect5.name",
+    "text": "Color Wheels",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      2.1050000190734863,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.2673548250604654e-07,
+      5.83847317159325e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect6.detail",
+    "text": "Replace a chosen color range",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      1.715999960899353,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      7.118173925846349e-07,
+      5.6144422444504016e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect6.name",
+    "text": "Replace Color",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      1.8220000267028809,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.530998296559119e-07,
+      7.368362986426291e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect7.detail",
+    "text": "Make a target color transparent",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      1.4329999685287476,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      7.698379249632126e-07,
+      5.6144422444504016e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect7.name",
+    "text": "Remove Color",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      1.5390000343322754,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.584964585774287e-07,
+      5.83847317159325e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect8.detail",
+    "text": "A softly faded look",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      1.149999976158142,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.543198599549214e-07,
+      5.598791474881182e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect8.name",
+    "text": "Fade",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      1.25600004196167,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.5328701863381866e-07,
+      5.8370446254230046e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect9.detail",
+    "text": "Balance shadows and highlights",
+    "size": 0.058,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      0.8669999837875366,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      7.839856266400602e-07,
+      5.6144422444504016e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.effect9.name",
+    "text": "Smart HDR",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.2000000476837158,
+      0.9729999899864197,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.5996262681692315e-07,
+      5.482886322738523e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.heading",
+    "text": "Effects",
+    "size": 0.135,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.430000066757202,
+      4.579999923706055,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.708715325956291e-07,
+      1.0194913357963742e-07,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.hint",
+    "text": "Effects stay editable and can be disabled.",
+    "size": 0.07,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.430000066757202,
+      0.28999999165534973,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.2129912647651508e-06,
+      6.738203239819995e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.list.title",
+    "text": "Color Adjustments",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "EffectsPage.ColorAdjustments",
+    "position": [
+      -1.4500000476837158,
+      3.759999990463257,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.541044399455131e-07,
+      8.028506215396192e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.search.placeholder",
+    "text": "Find Effects",
+    "size": 0.085,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.25,
+      4.065000057220459,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.1036770426217117e-07,
+      6.454021672652743e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Effects.subtitle",
+    "text": "Adding an effect creates an FX layer.",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "Effects",
+    "position": [
+      -2.430000066757202,
+      4.389999866485596,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.2008590601908509e-06,
+      7.708485583179936e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.BlurSharpen.heading",
+    "text": "Blur & Sharpen",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "EffectsPage.BlurSharpen",
+    "position": [
+      -1.4500000476837158,
+      3.759999990463257,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.222000822868722e-07,
+      7.928236556153934e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.BlurSharpen.row0.label",
+    "text": "Gaussian Blur",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.BlurSharpen",
+    "position": [
+      -1.2000000476837158,
+      3.490000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.5748268462375563e-07,
+      5.910766631700426e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.BlurSharpen.row1.label",
+    "text": "Motion Blur",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.BlurSharpen",
+    "position": [
+      -1.2000000476837158,
+      3.0999999046325684,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.8553886838599283e-07,
+      5.9121212814261526e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.BlurSharpen.row2.label",
+    "text": "Focus Blur",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.BlurSharpen",
+    "position": [
+      -1.2000000476837158,
+      2.7100000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.464869564595574e-07,
+      5.9121212814261526e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.BlurSharpen.row3.label",
+    "text": "Sharpen",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.BlurSharpen",
+    "position": [
+      -1.2000000476837158,
+      2.319999933242798,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.748332121882413e-07,
+      7.461675011199986e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.ColorAdjustments.belowViewport0.label",
+    "text": "Colorize",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.MoreColorRows",
+    "position": [
+      -1.2000000476837158,
+      1.7799999713897705,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.655043545018998e-07,
+      5.83847317159325e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.ColorAdjustments.belowViewport1.label",
+    "text": "Channel Mixer",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.MoreColorRows",
+    "position": [
+      -1.2000000476837158,
+      1.5,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.6689942223565595e-07,
+      5.8366453004055074e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.ColorAdjustments.belowViewport2.label",
+    "text": "LUT",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "EffectsPage.MoreColorRows",
+    "position": [
+      -1.2000000476837158,
+      1.2200000286102295,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.238155675764574e-07,
+      5.390144863781643e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.Distortion.heading",
+    "text": "Distortion",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "EffectsPage.Distortion",
+    "position": [
+      -1.4500000476837158,
+      3.759999990463257,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.438706528413604e-07,
+      6.122815676690152e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.Distortion.row0.label",
+    "text": "Bump Distortion",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.Distortion",
+    "position": [
+      -1.2000000476837158,
+      3.490000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.416572435024136e-07,
+      7.313686012366816e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.Distortion.row1.label",
+    "text": "Pinch Distortion",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.Distortion",
+    "position": [
+      -1.2000000476837158,
+      3.0999999046325684,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.290714852890233e-07,
+      5.9121212814261526e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.Distortion.row2.label",
+    "text": "Stretch Distortion",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.Distortion",
+    "position": [
+      -1.2000000476837158,
+      2.7100000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.887586098651809e-07,
+      5.912121991968888e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.Distortion.row3.label",
+    "text": "Twirl Distortion",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.Distortion",
+    "position": [
+      -1.2000000476837158,
+      2.319999933242798,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.134651814842073e-07,
+      5.9121212814261526e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.Distortion.row4.label",
+    "text": "Wave Distortion",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.Distortion",
+    "position": [
+      -1.2000000476837158,
+      1.9299999475479126,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.26010751400463e-07,
+      5.764132282592982e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LayerStyles.heading",
+    "text": "Layer Styles",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "EffectsPage.LayerStyles",
+    "position": [
+      -1.4500000476837158,
+      3.759999990463257,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.180921564511664e-07,
+      7.967263115915557e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LayerStyles.row0.label",
+    "text": "Stroke",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LayerStyles",
+    "position": [
+      -1.2000000476837158,
+      3.490000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.1564697760823037e-07,
+      5.9121212814261526e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LayerStyles.row1.label",
+    "text": "Shadow",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LayerStyles",
+    "position": [
+      -1.2000000476837158,
+      3.0999999046325684,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.6878620928982855e-07,
+      5.9121212814261526e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LayerStyles.row2.label",
+    "text": "Inner Shadow",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LayerStyles",
+    "position": [
+      -1.2000000476837158,
+      2.7100000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.574346235131088e-07,
+      5.9121212814261526e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LayerStyles.row3.label",
+    "text": "Outer Glow",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LayerStyles",
+    "position": [
+      -1.2000000476837158,
+      2.319999933242798,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.742463547951047e-07,
+      5.912691136700232e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LayerStyles.row4.label",
+    "text": "Inner Glow",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LayerStyles",
+    "position": [
+      -1.2000000476837158,
+      1.9299999475479126,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.558133698788879e-07,
+      5.9121212814261526e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LayerStyles.row5.label",
+    "text": "Bevel & Emboss",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LayerStyles",
+    "position": [
+      -1.2000000476837158,
+      1.5399999618530273,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.212773999119236e-07,
+      5.922321122397989e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LayerStyles.row6.label",
+    "text": "Fill Style",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LayerStyles",
+    "position": [
+      -1.2000000476837158,
+      1.149999976158142,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.7476968966766435e-07,
+      7.498424992036234e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LightTexture.heading",
+    "text": "Light & Texture",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "EffectsPage.LightTexture",
+    "position": [
+      -1.4500000476837158,
+      3.759999990463257,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.30691238509462e-07,
+      8.090268011073931e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LightTexture.row0.label",
+    "text": "Bloom",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LightTexture",
+    "position": [
+      -1.2000000476837158,
+      3.490000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.089610262601127e-07,
+      5.9121212814261526e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LightTexture.row1.label",
+    "text": "Film Grain",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LightTexture",
+    "position": [
+      -1.2000000476837158,
+      3.0999999046325684,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.317983043871209e-07,
+      5.910099787342915e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LightTexture.row2.label",
+    "text": "Vignette",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LightTexture",
+    "position": [
+      -1.2000000476837158,
+      2.7100000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.774488621071214e-07,
+      7.466159246405368e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.LightTexture.row3.label",
+    "text": "Pixelate",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.LightTexture",
+    "position": [
+      -1.2000000476837158,
+      2.319999933242798,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.5945098514057463e-07,
+      5.910099787342915e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.Portrait.heading",
+    "text": "Portrait",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "EffectsPage.Portrait",
+    "position": [
+      -1.4500000476837158,
+      3.759999990463257,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.681125579329091e-07,
+      6.122815676690152e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.Portrait.row0.label",
+    "text": "Beauty",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.Portrait",
+    "position": [
+      -1.2000000476837158,
+      3.490000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.2870501936722576e-07,
+      7.045336047895034e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "EffectsPage.Portrait.row1.label",
+    "text": "Body",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "EffectsPage.Portrait",
+    "position": [
+      -1.2000000476837158,
+      3.0999999046325684,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.657760861917268e-07,
+      7.498424992036234e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Export.label",
+    "text": "Export",
+    "size": 0.099,
+    "align": "CENTER",
+    "parent": "iMagePro",
+    "position": [
+      3.9700000286102295,
+      3.25,
+      0.16899999976158142
+    ],
+    "dimensions": [
+      0.26813435554504395,
+      0.08760125935077667,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Inspector.button.label",
+    "text": "Inspector",
+    "size": 0.099,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      4.489999771118164,
+      3.25,
+      0.14000000059604645
+    ],
+    "dimensions": [
+      0.3909646272659302,
+      0.08760125935077667,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Inspector.heading",
+    "text": "Super Gradient",
+    "size": 0.135,
+    "align": "LEFT",
+    "parent": "Inspector",
+    "position": [
+      -1.6699999570846558,
+      -0.4699999988079071,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      8.619968525636068e-07,
+      1.2687165451552573e-07,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Inspector.hint",
+    "text": "Drag nodes on the canvas to reshape color.",
+    "size": 0.068,
+    "align": "LEFT",
+    "parent": "Inspector",
+    "position": [
+      -1.6699999570846558,
+      -5.389999866485596,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.2299277614147286e-06,
+      6.566683197206657e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Inspector.nodeColor.title",
+    "text": "Node Color",
+    "size": 0.101,
+    "align": "LEFT",
+    "parent": "Inspector",
+    "position": [
+      -1.6699999570846558,
+      -3.3299999237060547,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.7451516138607985e-07,
+      7.532387513720096e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Inspector.nodes.title",
+    "text": "Color Nodes",
+    "size": 0.099,
+    "align": "LEFT",
+    "parent": "Inspector",
+    "position": [
+      -1.6699999570846558,
+      -1.5,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.076577735962928e-07,
+      7.385090583511555e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Inspector.presets.title",
+    "text": "Presets",
+    "size": 0.101,
+    "align": "LEFT",
+    "parent": "Inspector",
+    "position": [
+      -1.6699999570846558,
+      -4.119999885559082,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.0473725587398803e-07,
+      6.95062283284642e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Inspector.savePreset.label",
+    "text": "Save Preset",
+    "size": 0.065,
+    "align": "CENTER",
+    "parent": "Inspector",
+    "position": [
+      -0.10000000149011612,
+      -4.110000133514404,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.1903289254842093e-07,
+      4.584629564874376e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Inspector.smoothness.label",
+    "text": "Smoothness",
+    "size": 0.091,
+    "align": "LEFT",
+    "parent": "Inspector",
+    "position": [
+      -1.6699999570846558,
+      -1.0199999809265137,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.7609506736989715e-07,
+      6.79590357322013e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Inspector.smoothness.value",
+    "text": "80 %",
+    "size": 0.091,
+    "align": "RIGHT",
+    "parent": "Inspector",
+    "position": [
+      0.20000000298023224,
+      -1.0199999809265137,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.8071952467835217e-07,
+      6.391210405354286e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Inspector.subtitle",
+    "text": "Gradient layer",
+    "size": 0.079,
+    "align": "LEFT",
+    "parent": "Inspector",
+    "position": [
+      -1.6699999570846558,
+      -0.6600000262260437,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.7236989075827296e-07,
+      7.498424992036234e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.BlendMode.label",
+    "text": "Blend Mode",
+    "size": 0.092,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      -0.18000000715255737,
+      3.8450000286102295,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.5300444639906345e-07,
+      6.869551327781664e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.BlendMode.value",
+    "text": "Normal",
+    "size": 0.09,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.6299999952316284,
+      3.8450000286102295,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.751125123268139e-07,
+      6.722254397573124e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.button.label",
+    "text": "Layers",
+    "size": 0.101,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      -4.449999809265137,
+      -3.0799999237060547,
+      0.20999999344348907
+    ],
+    "dimensions": [
+      0.2674987316131592,
+      0.08982044458389282,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Layers.footer.FX",
+    "text": "FX",
+    "size": 0.109,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.7699999809265137,
+      0.33000001311302185,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.0125128824256535e-07,
+      7.363536980165009e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.heading",
+    "text": "Layers",
+    "size": 0.135,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      -0.18000000715255737,
+      4.579999923706055,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.5722973734664265e-07,
+      1.1975140523645678e-07,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.opacity.label",
+    "text": "Opacity",
+    "size": 0.086,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      -0.18000000715255737,
+      3.5399999618530273,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.7802025215351023e-07,
+      7.99342600998898e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.opacity.value",
+    "text": "100 %",
+    "size": 0.086,
+    "align": "RIGHT",
+    "parent": "Layers",
+    "position": [
+      1.559999942779541,
+      3.5399999618530273,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.1097133640068932e-07,
+      6.045726763659331e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.row0.title",
+    "text": "Pen Path",
+    "size": 0.091,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.38999998569488525,
+      3.0299999713897705,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.3384660014235124e-07,
+      6.793881368594157e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.row1.title",
+    "text": "Adjustment Layer",
+    "size": 0.091,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.38999998569488525,
+      2.6600000858306885,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.815572533014347e-07,
+      8.689976738196492e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.row2.subtitle",
+    "text": "Mask · Effects: 2",
+    "size": 0.068,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.6600000262260437,
+      2.200000047683716,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.897619305666012e-07,
+      5.183044393675118e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.row2.title",
+    "text": "Shape",
+    "size": 0.091,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.6600000262260437,
+      2.325000047683716,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.372162413166734e-07,
+      8.581423571740743e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.row3.title",
+    "text": "TEXT",
+    "size": 0.091,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.38999998569488525,
+      1.9199999570846558,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.912735427822554e-07,
+      6.16240285467029e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.row4.subtitle",
+    "text": "Effects: 3",
+    "size": 0.068,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.38999998569488525,
+      1.4600000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.5152613147838565e-07,
+      5.183044748946486e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.row4.title",
+    "text": "Super Gradient",
+    "size": 0.091,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.38999998569488525,
+      1.5850000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.81444453473523e-07,
+      8.581423571740743e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.row5.subtitle",
+    "text": "Effects: 3",
+    "size": 0.068,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.38999998569488525,
+      1.090000033378601,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.5152613147838565e-07,
+      5.183044748946486e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.row5.title",
+    "text": "Empty Layer",
+    "size": 0.091,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      0.38999998569488525,
+      1.215000033378601,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.754319604671764e-07,
+      8.10172267051712e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Layers.search.placeholder",
+    "text": "Find Layers",
+    "size": 0.085,
+    "align": "LEFT",
+    "parent": "Layers",
+    "position": [
+      -5.551115123125783e-17,
+      4.264999866485596,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.0177843629862764e-07,
+      8.061029888040139e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Pro.label",
+    "text": "Pro",
+    "size": 0.098,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      2.9600000381469727,
+      3.25,
+      0.14000000059604645
+    ],
+    "dimensions": [
+      0.13243216276168823,
+      0.06749381870031357,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "ProjectName",
+    "text": "Untitled",
+    "size": 0.101,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      -0.675000011920929,
+      3.25,
+      0.17800000309944153
+    ],
+    "dimensions": [
+      0.33448290824890137,
+      0.07531411945819855,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Smart.label",
+    "text": "Smart",
+    "size": 0.098,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      3.359999895095825,
+      3.25,
+      0.14000000059604645
+    ],
+    "dimensions": [
+      0.25003358721733093,
+      0.06864818185567856,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "StartPage.label",
+    "text": "Start Page",
+    "size": 0.103,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      0.20000000298023224,
+      3.25,
+      0.14000000059604645
+    ],
+    "dimensions": [
+      0.4464151859283447,
+      0.09432164579629898,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Switcher.Basic.label",
+    "text": "Basic",
+    "size": 0.064,
+    "align": "CENTER",
+    "parent": "EffectEntry1",
+    "position": [
+      0.0,
+      -0.23999999463558197,
+      0.12600000202655792
+    ],
+    "dimensions": [
+      1.3765821904598852e-07,
+      4.6860598956754984e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Switcher.Curves.label",
+    "text": "Curves",
+    "size": 0.064,
+    "align": "CENTER",
+    "parent": "EffectEntry2",
+    "position": [
+      0.0,
+      -0.23999999463558197,
+      0.12600000202655792
+    ],
+    "dimensions": [
+      1.8047830963041633e-07,
+      4.5168352613700335e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Switcher.Film Grain.label",
+    "text": "Film Grain",
+    "size": 0.064,
+    "align": "CENTER",
+    "parent": "EffectEntry3",
+    "position": [
+      0.0,
+      -0.23999999463558197,
+      0.12600000202655792
+    ],
+    "dimensions": [
+      2.689695008939452e-07,
+      4.805372455507495e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Switcher.Gradient.label",
+    "text": "Gradient",
+    "size": 0.064,
+    "align": "CENTER",
+    "parent": "EffectEntry0",
+    "position": [
+      0.0,
+      -0.23999999463558197,
+      0.12600000202655792
+    ],
+    "dimensions": [
+      2.343703187079882e-07,
+      4.805965403420487e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Titlebar.About",
+    "text": "About",
+    "size": 0.104,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      -2.0299999713897705,
+      3.25,
+      0.13500000536441803
+    ],
+    "dimensions": [
+      0.26618143916130066,
+      0.07753331959247589,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Titlebar.Extensions",
+    "text": "Extensions",
+    "size": 0.104,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      -2.6500000953674316,
+      3.25,
+      0.13500000536441803
+    ],
+    "dimensions": [
+      0.46647608280181885,
+      0.07557548582553864,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Titlebar.Projects",
+    "text": "Projects",
+    "size": 0.104,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      -3.180000066757202,
+      3.25,
+      0.13500000536441803
+    ],
+    "dimensions": [
+      0.34869682788848877,
+      0.09722637385129929,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Titlebar.Settings",
+    "text": "Settings",
+    "size": 0.104,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      -3.700000047683716,
+      3.25,
+      0.13500000536441803
+    ],
+    "dimensions": [
+      0.35487186908721924,
+      0.09798964858055115,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Titlebar.···",
+    "text": "···",
+    "size": 0.104,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      -1.600000023841858,
+      3.25,
+      0.13500000536441803
+    ],
+    "dimensions": [
+      0.21040049195289612,
+      0.02104475162923336,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Toolbar.heading",
+    "text": "Super Gradient",
+    "size": 0.105,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      -2.3399999141693115,
+      -3.015000104904175,
+      0.20999999344348907
+    ],
+    "dimensions": [
+      0.6707110404968262,
+      0.09887795150279999,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Toolbar.hint",
+    "text": "Use on the canvas.",
+    "size": 0.084,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      -2.3399999141693115,
+      -3.1700000762939453,
+      0.20999999344348907
+    ],
+    "dimensions": [
+      0.6517737507820129,
+      0.06280362606048584,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "ToolPicker.label",
+    "text": "Super Gradient",
+    "size": 0.096,
+    "align": "LEFT",
+    "parent": "iMagePro",
+    "position": [
+      -3.4700000286102295,
+      -3.0799999237060547,
+      0.25
+    ],
+    "dimensions": [
+      0.613325297832489,
+      0.09047983586788177,
+      0.004499999340623617
+    ]
+  },
+  {
+    "name": "Tools.heading",
+    "text": "Canvas",
+    "size": 0.14,
+    "align": "LEFT",
+    "parent": "ToolsPage.Canvas",
+    "position": [
+      -0.10999999940395355,
+      4.559999942779541,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.1747890122678655e-07,
+      9.767707354058075e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Tools.hint.line1",
+    "text": "Click a category for its last-used tool;",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "ToolsPage.Canvas",
+    "position": [
+      -0.10999999940395355,
+      0.49000000953674316,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.2089370784451603e-06,
+      7.612077723706534e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Tools.hint.line2",
+    "text": "hover to choose another tool.",
+    "size": 0.078,
+    "align": "LEFT",
+    "parent": "ToolsPage.Canvas",
+    "position": [
+      -0.10999999940395355,
+      0.3199999928474426,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      9.664340723247733e-07,
+      5.83847317159325e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Tools.tool.Crop.label",
+    "text": "Crop",
+    "size": 0.108,
+    "align": "LEFT",
+    "parent": "ToolsPage.Canvas",
+    "position": [
+      0.2800000011920929,
+      3.615000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.1144575157450163e-07,
+      9.678248602540407e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Tools.tool.Eyedropper.label",
+    "text": "Eyedropper",
+    "size": 0.108,
+    "align": "LEFT",
+    "parent": "ToolsPage.Canvas",
+    "position": [
+      0.2800000011920929,
+      2.4600000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.28079226569389e-07,
+      1.021768341047391e-07,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Tools.tool.Hand.label",
+    "text": "Hand",
+    "size": 0.108,
+    "align": "LEFT",
+    "parent": "ToolsPage.Canvas",
+    "position": [
+      0.2800000011920929,
+      3.2300000190734863,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.2978743174917327e-07,
+      8.046498578551109e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Tools.tool.Move.label",
+    "text": "Move",
+    "size": 0.108,
+    "align": "LEFT",
+    "parent": "ToolsPage.Canvas",
+    "position": [
+      0.2800000011920929,
+      4.0,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.3195342180315492e-07,
+      7.428514692264798e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "Tools.tool.Zoom.label",
+    "text": "Zoom",
+    "size": 0.108,
+    "align": "LEFT",
+    "parent": "ToolsPage.Canvas",
+    "position": [
+      0.2800000011920929,
+      2.8450000286102295,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.571202344370249e-07,
+      7.428514692264798e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Brush.heading",
+    "text": "Brush",
+    "size": 0.14,
+    "align": "LEFT",
+    "parent": "ToolsPage.Brush",
+    "position": [
+      -0.10999999940395355,
+      4.559999942779541,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.252627607253089e-07,
+      1.0403322647789537e-07,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Brush.row0.label",
+    "text": "Standard Brush",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Brush",
+    "position": [
+      0.2800000011920929,
+      4.0,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.528400717797922e-07,
+      7.457384043618731e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Brush.row1.label",
+    "text": "Pencil",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Brush",
+    "position": [
+      0.2800000011920929,
+      3.615000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.4876655402295e-07,
+      7.456605288780338e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Brush.row2.label",
+    "text": "Marker",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Brush",
+    "position": [
+      0.2800000011920929,
+      3.2300000190734863,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.8848219812971365e-07,
+      7.456717554532588e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Brush.row3.label",
+    "text": "Airbrush",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Brush",
+    "position": [
+      0.2800000011920929,
+      2.8450000286102295,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.53752426462961e-07,
+      7.457384043618731e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Brush.row4.label",
+    "text": "Watercolor",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Brush",
+    "position": [
+      0.2800000011920929,
+      2.4600000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.681096754666214e-07,
+      7.458739048615826e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Brush.row5.label",
+    "text": "Oil Paint",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Brush",
+    "position": [
+      0.2800000011920929,
+      2.075000047683716,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.571570346139197e-07,
+      7.459308903889905e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Brush.row6.label",
+    "text": "Texture Brush",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Brush",
+    "position": [
+      0.2800000011920929,
+      1.690000057220459,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.849896638210339e-07,
+      7.457384043618731e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Brush.row7.label",
+    "text": "Eraser",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Brush",
+    "position": [
+      0.2800000011920929,
+      1.3049999475479126,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.6053405122183904e-07,
+      6.883186642880901e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Fill.heading",
+    "text": "Fill",
+    "size": 0.14,
+    "align": "LEFT",
+    "parent": "ToolsPage.Fill",
+    "position": [
+      -0.10999999940395355,
+      4.559999942779541,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.6040657158100657e-07,
+      1.0376186310168123e-07,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Fill.row0.label",
+    "text": "Linear Gradient",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Fill",
+    "position": [
+      0.2800000011920929,
+      4.0,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.490890882560052e-07,
+      7.457310857716948e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Fill.row1.label",
+    "text": "Radial Gradient",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Fill",
+    "position": [
+      0.2800000011920929,
+      3.615000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.497263598248537e-07,
+      7.457310857716948e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Fill.row2.label",
+    "text": "Super Gradient",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Fill",
+    "position": [
+      0.2800000011920929,
+      3.2300000190734863,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.38830215393682e-07,
+      9.421233215789471e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Fill.row3.label",
+    "text": "Paint Bucket",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Fill",
+    "position": [
+      0.2800000011920929,
+      2.8450000286102295,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.312879238772439e-07,
+      7.457384043618731e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Fill.row4.label",
+    "text": "Color Fill",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Fill",
+    "position": [
+      0.2800000011920929,
+      2.4600000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.68776568393514e-07,
+      7.458739048615826e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Path.heading",
+    "text": "Path",
+    "size": 0.14,
+    "align": "LEFT",
+    "parent": "ToolsPage.Path",
+    "position": [
+      -0.10999999940395355,
+      4.559999942779541,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.555470359766332e-07,
+      1.0402656158703394e-07,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Path.row0.label",
+    "text": "Pen Path",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Path",
+    "position": [
+      0.2800000011920929,
+      4.0,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.6677536741080985e-07,
+      7.456717554532588e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Path.row1.label",
+    "text": "Freeform Path",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Path",
+    "position": [
+      0.2800000011920929,
+      3.615000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.940023015682527e-07,
+      7.577929039825904e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.heading",
+    "text": "Retouch",
+    "size": 0.14,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      -0.10999999940395355,
+      4.559999942779541,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.742529995382938e-07,
+      1.0404677652786631e-07,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.row0.label",
+    "text": "Smart Repair",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      0.2800000011920929,
+      4.0,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.531533133762423e-07,
+      9.233097131300383e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.row1.label",
+    "text": "Texture Smoothing",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      0.2800000011920929,
+      3.640000104904175,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      8.132758466672385e-07,
+      9.613854246026676e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.row2.label",
+    "text": "Clone Stamp",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      0.2800000011920929,
+      3.2799999713897705,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.368754614210047e-07,
+      9.421233215789471e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.row3.label",
+    "text": "Dodge",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      0.2800000011920929,
+      2.9200000762939453,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.6390719654045824e-07,
+      9.613854246026676e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.row4.label",
+    "text": "Burn",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      0.2800000011920929,
+      2.559999942779541,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.8998265716163587e-07,
+      6.883854553052515e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.row5.label",
+    "text": "Sponge",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      0.2800000011920929,
+      2.200000047683716,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.160992889661429e-07,
+      9.160148550790836e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.row6.label",
+    "text": "Blur Brush",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      0.2800000011920929,
+      1.840000033378601,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.2922636112052714e-07,
+      7.457384043618731e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.row7.label",
+    "text": "Sharpen Brush",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      0.2800000011920929,
+      1.4800000190734863,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.165165586935473e-07,
+      9.421233215789471e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.row8.label",
+    "text": "Smudge",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      0.2800000011920929,
+      1.1200000047683716,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.4495784007049224e-07,
+      9.613854246026676e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Retouch.row9.label",
+    "text": "Liquify Push",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Retouch",
+    "position": [
+      0.2800000011920929,
+      0.7599999904632568,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.036942525293853e-07,
+      9.586732119259977e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Selection.heading",
+    "text": "Selection",
+    "size": 0.14,
+    "align": "LEFT",
+    "parent": "ToolsPage.Selection",
+    "position": [
+      -0.10999999940395355,
+      4.559999942779541,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.407378580457589e-07,
+      1.0404677652786631e-07,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Selection.row0.label",
+    "text": "Quick Selection",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Selection",
+    "position": [
+      0.2800000011920929,
+      4.0,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.50373522148584e-07,
+      9.012074286829375e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Selection.row1.label",
+    "text": "Rectangular Marquee",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Selection",
+    "position": [
+      0.2800000011920929,
+      3.615000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      8.961550861386058e-07,
+      9.613854246026676e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Selection.row2.label",
+    "text": "Elliptical Marquee",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Selection",
+    "position": [
+      0.2800000011920929,
+      3.2300000190734863,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      7.510430464208184e-07,
+      9.421233215789471e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Selection.row3.label",
+    "text": "Lasso",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Selection",
+    "position": [
+      0.2800000011920929,
+      2.8450000286102295,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.2806412403042486e-07,
+      6.885208847506874e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Selection.row4.label",
+    "text": "Polygonal Lasso",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Selection",
+    "position": [
+      0.2800000011920929,
+      2.4600000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.736874524904124e-07,
+      9.613854246026676e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Selection.row5.label",
+    "text": "Color Range",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Selection",
+    "position": [
+      0.2800000011920929,
+      2.075000047683716,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.081819267616083e-07,
+      9.613854246026676e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Shape.heading",
+    "text": "Shape",
+    "size": 0.14,
+    "align": "LEFT",
+    "parent": "ToolsPage.Shape",
+    "position": [
+      -0.10999999940395355,
+      4.559999942779541,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.643486650162231e-07,
+      1.3153727707049256e-07,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Shape.row0.label",
+    "text": "Rectangle",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Shape",
+    "position": [
+      0.2800000011920929,
+      4.0,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      4.112951614843041e-07,
+      9.613854246026676e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Shape.row1.label",
+    "text": "Rounded Rectangle",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Shape",
+    "position": [
+      0.2800000011920929,
+      3.615000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      8.187741400433879e-07,
+      9.613854246026676e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Shape.row2.label",
+    "text": "Ellipse",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Shape",
+    "position": [
+      0.2800000011920929,
+      3.2300000190734863,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.6773074068842106e-07,
+      9.421233215789471e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Shape.row3.label",
+    "text": "Polygon",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Shape",
+    "position": [
+      0.2800000011920929,
+      2.8450000286102295,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      3.3218154271708045e-07,
+      9.613854246026676e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Shape.row4.label",
+    "text": "Star",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Shape",
+    "position": [
+      0.2800000011920929,
+      2.4600000381469727,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.7216586911672493e-07,
+      7.003012569839484e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Shape.row5.label",
+    "text": "Line",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Shape",
+    "position": [
+      0.2800000011920929,
+      2.075000047683716,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      1.683189481127556e-07,
+      7.268103274782334e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Shape.row6.label",
+    "text": "Custom Shape",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Shape",
+    "position": [
+      0.2800000011920929,
+      1.690000057220459,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.095964977248514e-07,
+      9.421233215789471e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Text.heading",
+    "text": "Text",
+    "size": 0.14,
+    "align": "LEFT",
+    "parent": "ToolsPage.Text",
+    "position": [
+      -0.10999999940395355,
+      4.559999942779541,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      2.538635328619421e-07,
+      9.599236250323884e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Text.row0.label",
+    "text": "Horizontal Text",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Text",
+    "position": [
+      0.2800000011920929,
+      4.0,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      6.428075494113727e-07,
+      7.458739048615826e-08,
+      4.5000003723316695e-09
+    ]
+  },
+  {
+    "name": "ToolsPage.Text.row1.label",
+    "text": "Vertical Text",
+    "size": 0.1,
+    "align": "LEFT",
+    "parent": "ToolsPage.Text",
+    "position": [
+      0.2800000011920929,
+      3.615000009536743,
+      0.15000000596046448
+    ],
+    "dimensions": [
+      5.258967235022283e-07,
+      7.456717554532588e-08,
+      4.5000003723316695e-09
+    ]
+  }
+]

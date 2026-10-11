@@ -1,0 +1,429 @@
+{
+  "created": "2026-10-10",
+  "appIcon": {
+    "source": "creator-owned original icon raster artwork"
+  },
+  "productScreenshots": {
+    "source": "8 creator-supplied four-language hero screenshots",
+    "changes": "complete source canvas and shadow alpha retained; WebP export; originals untouched"
+  },
+  "geometryModel": {
+    "construction": "Geometry-only UI. Screenshot files were read only as visual references, never loaded into Blender.",
+    "meshObjects": 723,
+    "triangles": 370364,
+    "imageTextures": 0,
+    "menus": [
+      "Tools",
+      "Inspector",
+      "Layers",
+      "Effects",
+      "BasicInspector"
+    ],
+    "type": "editable physical surfaces, raised glyph meshes, vector icon meshes, vertex-colored gradient mesh",
+    "toolCategories": 8,
+    "toolEntries": 45,
+    "effectCategories": 6,
+    "effectEntries": 36,
+    "glassMaterials": {
+      "regularTransmission": 0.995,
+      "clearTransmission": 0.998,
+      "roughness": {
+        "regular": 0.52,
+        "clear": 0.38,
+        "edge": 0.065
+      },
+      "rimConstruction": "single body with 12-segment rounded bevel and smooth weighted normals; no overlapping rim or opaque backing",
+      "approximation": "physical refraction, frosted transmission and specular edge; not a native macOS material"
+    },
+    "animationSeconds": 26,
+    "frameRate": 24,
+    "localization": {
+      "languages": [
+        "zh",
+        "en",
+        "ja",
+        "ko"
+      ],
+      "textObjectsPerLanguage": 185,
+      "projectNames": "Creator content is preserved",
+      "geometryTextures": 0
+    },
+    "appearanceLoading": "Only current language/current appearance GLB is requested initially; opposite appearance is loaded on change"
+  },
+  "font": {
+    "name": "Source Han Sans SC",
+    "license": "SIL OFL 1.1",
+    "use": "rendered glyphs and graphics; font binary not shipped by website"
+  },
+  "publication": {
+    "deployed": false,
+    "eventOpen": false
+  },
+  "files": [
+    {
+      "path": "3d/en/effects-poster-dark.webp",
+      "bytes": 776708,
+      "sha256": "2fc75e9da6800dcf0f7149147d502ce84f86567a7f0e80719b1d54082d155bfa"
+    },
+    {
+      "path": "3d/en/effects-poster.webp",
+      "bytes": 756912,
+      "sha256": "e83635fb9d858a5908abd3eb59a9061e8b1ac11d1dbd981183146ae1a6b2a80b"
+    },
+    {
+      "path": "3d/en/image-pro-dark.glb",
+      "bytes": 14765060,
+      "sha256": "4b286f5743338b129c6f19e75b2487d0b7a07dcc4b559da6a0ed15d4b225662b"
+    },
+    {
+      "path": "3d/en/image-pro.glb",
+      "bytes": 15369668,
+      "sha256": "7d6349eb4cdcbf2c3c804474d502a4cbc5c3b1129618f77c60aad7301a48c501"
+    },
+    {
+      "path": "3d/en/inspector-poster-dark.webp",
+      "bytes": 734974,
+      "sha256": "5b038690c85a4584e94dcca710fc45734daece78341847c6a93b65dc1675c143"
+    },
+    {
+      "path": "3d/en/inspector-poster.webp",
+      "bytes": 639640,
+      "sha256": "66db5610b0e87780e7e0ea13c58bfc9e53be44b9fd381544ade0b33a32299e55"
+    },
+    {
+      "path": "3d/en/layers-poster-dark.webp",
+      "bytes": 699348,
+      "sha256": "eb60b59793c940985874d222593ab97a1bd45fc590f6ddf8224f9c8c41686db1"
+    },
+    {
+      "path": "3d/en/layers-poster.webp",
+      "bytes": 624488,
+      "sha256": "58196627649cd8e684bc2adf121123c7ab666a6190e70bc7184e899ffa5281f2"
+    },
+    {
+      "path": "3d/en/order-poster-dark.webp",
+      "bytes": 680172,
+      "sha256": "c9556635d9e93d83d42b30b673576bf534aec45eb56d2d6fcd2f87ddb40e5399"
+    },
+    {
+      "path": "3d/en/order-poster.webp",
+      "bytes": 549540,
+      "sha256": "e52359325ec0a02c97b09cdbab3ea94d6e9ea567d358c1e7b111286ef38ce39e"
+    },
+    {
+      "path": "3d/en/product-poster-dark.webp",
+      "bytes": 697092,
+      "sha256": "3c4924d37d39e34a69ea5fa7040d4dca40b7c908f073ecd11fc83bce59521ce4"
+    },
+    {
+      "path": "3d/en/product-poster.webp",
+      "bytes": 560606,
+      "sha256": "871b9337b75bde98840b8c92e25e3b60ad22c0abecd980a598a6bda0a9f608f3"
+    },
+    {
+      "path": "3d/en/tools-poster-dark.webp",
+      "bytes": 751386,
+      "sha256": "73726cd5fa01443e3379b3ca1c401836cb9ced14e04d9d59aa2a606494cc6fee"
+    },
+    {
+      "path": "3d/en/tools-poster.webp",
+      "bytes": 765348,
+      "sha256": "1ef91b36c4c5566e92e89cf8e225615ae0d325ae59b5fc1ba3ee78ea76d1c1f1"
+    },
+    {
+      "path": "3d/ja/effects-poster-dark.webp",
+      "bytes": 772406,
+      "sha256": "aeeb28a8d0dbea186a9547f75337b49784a4223e52b5fe48bec7fdbe9b1e9771"
+    },
+    {
+      "path": "3d/ja/effects-poster.webp",
+      "bytes": 752542,
+      "sha256": "fb54f4dbb1fadc92f840185e95e8ab7430f6a24ccbe69c178305697165e9a3e4"
+    },
+    {
+      "path": "3d/ja/image-pro-dark.glb",
+      "bytes": 15664020,
+      "sha256": "b8ff1657e61eb486e48dd85787d4dea3e9a7b91e8867ad9f8e14b0b8263a9e4c"
+    },
+    {
+      "path": "3d/ja/image-pro.glb",
+      "bytes": 16268628,
+      "sha256": "d6668b605a2e4440b1df1faef11c78f2f12bcf2ce2f67808e7cc9c1687327968"
+    },
+    {
+      "path": "3d/ja/inspector-poster-dark.webp",
+      "bytes": 735066,
+      "sha256": "baea24592b65c6c65a104adacb4dadcb83d0d1b31dfb03a669ca5137cb946a4c"
+    },
+    {
+      "path": "3d/ja/inspector-poster.webp",
+      "bytes": 639636,
+      "sha256": "f0bafb39b70fa297914bc64408327bab0d5c74a71569cda98f6fa63eb43fb87b"
+    },
+    {
+      "path": "3d/ja/layers-poster-dark.webp",
+      "bytes": 698716,
+      "sha256": "5bf0c0db7e8b94dd2161e36389f89063221e37666f0b0037a6976c21d4d1aa4a"
+    },
+    {
+      "path": "3d/ja/layers-poster.webp",
+      "bytes": 624762,
+      "sha256": "1818a4119ebef7ccd5668f725e1856e0bfb6a84ea682718c2dcf933a69c19897"
+    },
+    {
+      "path": "3d/ja/order-poster-dark.webp",
+      "bytes": 681160,
+      "sha256": "f06db18c0e779d188e7abb59b0f95be12a118b73b84c283c99157568a9f818c3"
+    },
+    {
+      "path": "3d/ja/order-poster.webp",
+      "bytes": 549806,
+      "sha256": "2eada804e081e7a563e9eb33604b0e21ac636141652020efe51fddb256ea8be4"
+    },
+    {
+      "path": "3d/ja/product-poster-dark.webp",
+      "bytes": 696732,
+      "sha256": "5524ce3e41cd8a43aca9b41b0542fbc2eff0dd602ef719b8ca90a8f0d99aa862"
+    },
+    {
+      "path": "3d/ja/product-poster.webp",
+      "bytes": 560350,
+      "sha256": "b62fcc19ae2a58fff11bbc541d9ce06786e25ca5029ea042be088e6c7a183b83"
+    },
+    {
+      "path": "3d/ja/tools-poster-dark.webp",
+      "bytes": 752176,
+      "sha256": "cbaaac6c7d35bb4fbb6d683854f6a7c540ff5314aa0cf46fc1174f8a62876805"
+    },
+    {
+      "path": "3d/ja/tools-poster.webp",
+      "bytes": 766374,
+      "sha256": "2c2c6f9de10cea4aaad02bb686f318210ada550ac67f5334a2ee73730b4dd377"
+    },
+    {
+      "path": "3d/ko/effects-poster-dark.webp",
+      "bytes": 762510,
+      "sha256": "c0aecd87e72f47f583cbf65a7fe7ba12442a12017a6ce509cf4d1601b04e61f1"
+    },
+    {
+      "path": "3d/ko/effects-poster.webp",
+      "bytes": 743660,
+      "sha256": "6f216a9c4763cd26f91ee005df639f281d3b0fd3dcfa68849b0306f64b082728"
+    },
+    {
+      "path": "3d/ko/image-pro-dark.glb",
+      "bytes": 11178276,
+      "sha256": "c0c5bae7142c58250b36e80c79d83f7e12a9531adebee52059d43956e30cbecf"
+    },
+    {
+      "path": "3d/ko/image-pro.glb",
+      "bytes": 11783004,
+      "sha256": "c7668398c112cdb131d41a7016b18ca54bbffe05540d9ba5cad1da8a8e5fd25c"
+    },
+    {
+      "path": "3d/ko/inspector-poster-dark.webp",
+      "bytes": 732232,
+      "sha256": "168b09141bcb4aae73fb93ea43a1ac35d51838aa5e02f5b95ba2cf6e877a91a5"
+    },
+    {
+      "path": "3d/ko/inspector-poster.webp",
+      "bytes": 637754,
+      "sha256": "19610f1724e382d2b1db81098eaeb1d16119f90a78890a48bf3a5037b1412a9b"
+    },
+    {
+      "path": "3d/ko/layers-poster-dark.webp",
+      "bytes": 694748,
+      "sha256": "251cf553e742a66c486f278545a08a9790aad85de75b3f09ec6e7697c4c56dc7"
+    },
+    {
+      "path": "3d/ko/layers-poster.webp",
+      "bytes": 620792,
+      "sha256": "cb26decb0b89b4deec8ad601ddfe7d3c0487e5a12c44566c23056dc532ed5a69"
+    },
+    {
+      "path": "3d/ko/order-poster-dark.webp",
+      "bytes": 682142,
+      "sha256": "f7205f20cd4f5a9a3554f923c9a949369c3a7d6b9bce8dfba9683d522629b4d8"
+    },
+    {
+      "path": "3d/ko/order-poster.webp",
+      "bytes": 591462,
+      "sha256": "10263f47a113a78daf86b4436565dd7dfea0bc47af5a6908d129c834db1a6bf4"
+    },
+    {
+      "path": "3d/ko/product-poster-dark.webp",
+      "bytes": 701466,
+      "sha256": "911a28e98d8a8af1cf625546aa2cc16094feeb91ee18a0e26595bdb3ab31ac31"
+    },
+    {
+      "path": "3d/ko/product-poster.webp",
+      "bytes": 568160,
+      "sha256": "8e80d6e72069a6cae5ae9cf433f51cf9eeec94819a2bcbd700765aacf343e2b7"
+    },
+    {
+      "path": "3d/ko/tools-poster-dark.webp",
+      "bytes": 757672,
+      "sha256": "f3114aee2ad0e186bffd014ad0e5dfff72dff9eb4fea7b5ce83021d6e70dbf39"
+    },
+    {
+      "path": "3d/ko/tools-poster.webp",
+      "bytes": 769884,
+      "sha256": "9f52df5baacd724136a46134e7f0b5d2d23823c0f9fdf0e24c8cb4da72b6a2c0"
+    },
+    {
+      "path": "3d/zh/effects-poster-dark.webp",
+      "bytes": 772120,
+      "sha256": "f3bf40393f944276b9fc877a2bda958b28c3eff250e90a4be426f3eb000b71b6"
+    },
+    {
+      "path": "3d/zh/effects-poster.webp",
+      "bytes": 781224,
+      "sha256": "e2f33f0db16493dfaf5cfd9480548d0a6541c24f84e72e73a363b388d4d11791"
+    },
+    {
+      "path": "3d/zh/image-pro-dark.glb",
+      "bytes": 14811256,
+      "sha256": "e52067a724e9b47d84a395802e1f4cd7b7b125c7fbbb5a5f7979f78dac82032e"
+    },
+    {
+      "path": "3d/zh/image-pro.glb",
+      "bytes": 15415868,
+      "sha256": "2249dc14d505c613477b1564bd01eea8c2eecdb69ce9a42f4c32f67998ae608e"
+    },
+    {
+      "path": "3d/zh/inspector-poster-dark.webp",
+      "bytes": 739100,
+      "sha256": "4b722f59c9b41163c5635a4120c218c05e6e84c02b57e6a3cf98c9d5239c183d"
+    },
+    {
+      "path": "3d/zh/inspector-poster.webp",
+      "bytes": 687764,
+      "sha256": "4bb24462fecd04559d46e58df4c59ef8fa0a5d59fd51a21bf661268fe8b507e3"
+    },
+    {
+      "path": "3d/zh/layers-poster-dark.webp",
+      "bytes": 702298,
+      "sha256": "58c6a45bdc681dd3a3c308a88fa43e410acceca9abcdcf24cdcb9b081a92eb96"
+    },
+    {
+      "path": "3d/zh/layers-poster.webp",
+      "bytes": 677200,
+      "sha256": "7391fe988b07507d919a2f15d46019a28fdadf7d7e8e0b3fcbe23c3095cade6c"
+    },
+    {
+      "path": "3d/zh/order-poster-dark.webp",
+      "bytes": 681060,
+      "sha256": "ea3ac2f1cb2270d9e42c307e0ec8b24f023f0cd010145fab8a315ad9b04377e0"
+    },
+    {
+      "path": "3d/zh/order-poster.webp",
+      "bytes": 592200,
+      "sha256": "45f3202d4bd6c27c0a260edac4ba90756d0ac04fd5bde2e78c02918a15334d11"
+    },
+    {
+      "path": "3d/zh/product-poster-dark.webp",
+      "bytes": 696144,
+      "sha256": "1c8a71cfa2dbcbfcf05e4115322ebbdaef24ab795ec5abd24097890fa68ee431"
+    },
+    {
+      "path": "3d/zh/product-poster.webp",
+      "bytes": 563492,
+      "sha256": "5f478bf1237fa559d19c63272dd4ad9c91e3929aafb83867afb81199087ec371"
+    },
+    {
+      "path": "3d/zh/tools-poster-dark.webp",
+      "bytes": 753558,
+      "sha256": "e24444a9614097c433188a0a1321c057feb9eac4a0230fc2f5fdb9b81fd48b9a"
+    },
+    {
+      "path": "3d/zh/tools-poster.webp",
+      "bytes": 775858,
+      "sha256": "af78b2c8af02fa051428b236dae9c3f1edf62be0e2d934e44c9e88d3fb6699c7"
+    },
+    {
+      "path": "brand/app-icon-256.png",
+      "bytes": 59201,
+      "sha256": "f0b19a508cde5571d9816cb10e20d1daa42933e7e8961833bbced15d46aa10ce"
+    },
+    {
+      "path": "downloads/release.json",
+      "bytes": 737,
+      "sha256": "2902b83146bed80dd36a7fa3930707fffec1ddaa3d7774001fb04da84ad44753"
+    },
+    {
+      "path": "icons/app-icon-64.png",
+      "bytes": 6033,
+      "sha256": "c4445361149f73494ec00e6053422cf23eb149af11a9e13b85820b4221093645"
+    },
+    {
+      "path": "icons/favicon.ico",
+      "bytes": 12877,
+      "sha256": "8b6296fa2e41e1480f104656f42cc0e1bd3d5badec9f1816936e1ce1df739613"
+    },
+    {
+      "path": "legal/LICENSE-Apache-2.0.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "legal/THIRD_PARTY_NOTICES.md",
+      "bytes": 1547,
+      "sha256": "b8c675ae6a686f34236f173a6c0f7b9ec9240b131e37d60e0a595246eca172ec"
+    },
+    {
+      "path": "legal/third-party-licenses.txt",
+      "bytes": 347575,
+      "sha256": "552872ba4e4ea600c29423efb7d4126c1cebcad3b0bf9f151694dab672976876"
+    },
+    {
+      "path": "product/app-en-dark.webp",
+      "bytes": 157862,
+      "sha256": "df81546d870f0c251671193a51775b911a9e53267d72bd9358d7c46acf5e5c32"
+    },
+    {
+      "path": "product/app-en-light.webp",
+      "bytes": 159516,
+      "sha256": "0a75067e1ffbfaa77ba3d032fa4d83ff21d5c544cadceb808e7ccfecc1e4788d"
+    },
+    {
+      "path": "product/app-ja-dark.webp",
+      "bytes": 157976,
+      "sha256": "c76b1889b5b85b72dcc5cad40eff66a4126694dddf94565bcea5452528d0a1dc"
+    },
+    {
+      "path": "product/app-ja-light.webp",
+      "bytes": 159906,
+      "sha256": "8623d22f39ebcd535b0d9e970013719306cf32489ff87a63f3a9b07eb42349c1"
+    },
+    {
+      "path": "product/app-ko-dark.webp",
+      "bytes": 154560,
+      "sha256": "ac140f1cea081cab2e5c27900be35c9e938bf6a0a8ed6f6cbd737f5cb7b7e06d"
+    },
+    {
+      "path": "product/app-ko-light.webp",
+      "bytes": 156532,
+      "sha256": "255e15d5896518774967ac35f2c4709c7087e07850059744f43c1ef5979a489b"
+    },
+    {
+      "path": "product/app-zh-dark.webp",
+      "bytes": 154554,
+      "sha256": "9bd3a700ef1bbcd096f69cdb74bafed9742f4b76b75f9819091155a38dff2a9f"
+    },
+    {
+      "path": "product/app-zh-light.webp",
+      "bytes": 156410,
+      "sha256": "33d268f1ed5e133d5e8be3eb79ed1ff3a75f240c12bf345c772a2f4d75b6acf1"
+    },
+    {
+      "path": "social/share-en.png",
+      "bytes": 404058,
+      "sha256": "732408f378471d454ebe6954f62faa244d7fad0556b7f9f9172f91f34aa3842a"
+    },
+    {
+      "path": "social/share-zh.png",
+      "bytes": 404078,
+      "sha256": "bda93048084b7c871a26d636b2e244585bb711d38cff3a6f1556e4462f86d61f"
+    }
+  ]
+}

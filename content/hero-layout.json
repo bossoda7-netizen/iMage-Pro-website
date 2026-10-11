@@ -1,0 +1,68 @@
+{
+  "source": "首页素材",
+  "sharedCrop": [
+    0,
+    0,
+    3032,
+    2068
+  ],
+  "shadowPreserved": true,
+  "images": {
+    "app-zh-light": {
+      "source": "中文白.png",
+      "size": [
+        3032,
+        2068
+      ]
+    },
+    "app-zh-dark": {
+      "source": "中文黑.png",
+      "size": [
+        3032,
+        2068
+      ]
+    },
+    "app-en-light": {
+      "source": "英语白.png",
+      "size": [
+        3032,
+        2068
+      ]
+    },
+    "app-en-dark": {
+      "source": "英语黑.png",
+      "size": [
+        3032,
+        2068
+      ]
+    },
+    "app-ja-light": {
+      "source": "日语白.png",
+      "size": [
+        3032,
+        2068
+      ]
+    },
+    "app-ja-dark": {
+      "source": "日语黑.png",
+      "size": [
+        3032,
+        2068
+      ]
+    },
+    "app-ko-light": {
+      "source": "韩语白.png",
+      "size": [
+        3032,
+        2068
+      ]
+    },
+    "app-ko-dark": {
+      "source": "韩语黑.png",
+      "size": [
+        3032,
+        2068
+      ]
+    }
+  }
+}

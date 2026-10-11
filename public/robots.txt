@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bossoda7-netizen.github.io/iMage-Pro-website/sitemap.xml

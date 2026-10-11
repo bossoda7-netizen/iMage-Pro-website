@@ -1,0 +1,24 @@
+{
+  "name": "iMage Pro",
+  "version": "0.9.2",
+  "build": "16",
+  "minimumMacOS": "14.0",
+  "architecture": "arm64",
+  "downloadUrl": "https://github.com/bossoda7-netizen/iMage-Pro/releases/download/v0.9.2/iMage-Pro-0.9.2-macOS-arm64.zip",
+  "sourceUrl": "https://github.com/bossoda7-netizen/iMage-Pro",
+  "supportEmail": "bossoda7@gmail.com",
+  "codeLicense": "Apache-2.0",
+  "releaseStatus": "public-preview",
+  "releaseReady": true,
+  "releaseBlockers": [],
+  "languages": [
+    "zh-Hans",
+    "en",
+    "ko",
+    "ja"
+  ],
+  "releaseUrl": "https://github.com/bossoda7-netizen/iMage-Pro/releases/tag/v0.9.2",
+  "notarized": false,
+  "signing": "ad-hoc",
+  "sha256": "4e1279660bfc513f8988efc9e333258ec0502a7a568a804013ef618e5beb39b3"
+}

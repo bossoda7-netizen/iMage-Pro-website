@@ -1,0 +1,43 @@
+{
+  "construction": "Geometry-only UI. Screenshot files were read only as visual references, never loaded into Blender.",
+  "meshObjects": 723,
+  "triangles": 370364,
+  "imageTextures": 0,
+  "menus": [
+    "Tools",
+    "Inspector",
+    "Layers",
+    "Effects",
+    "BasicInspector"
+  ],
+  "type": "editable physical surfaces, raised glyph meshes, vector icon meshes, vertex-colored gradient mesh",
+  "toolCategories": 8,
+  "toolEntries": 45,
+  "effectCategories": 6,
+  "effectEntries": 36,
+  "glassMaterials": {
+    "regularTransmission": 0.995,
+    "clearTransmission": 0.998,
+    "roughness": {
+      "regular": 0.52,
+      "clear": 0.38,
+      "edge": 0.065
+    },
+    "rimConstruction": "single body with 12-segment rounded bevel and smooth weighted normals; no overlapping rim or opaque backing",
+    "approximation": "physical refraction, frosted transmission and specular edge; not a native macOS material"
+  },
+  "animationSeconds": 26,
+  "frameRate": 24,
+  "localization": {
+    "languages": [
+      "zh",
+      "en",
+      "ja",
+      "ko"
+    ],
+    "textObjectsPerLanguage": 185,
+    "projectNames": "Creator content is preserved",
+    "geometryTextures": 0
+  },
+  "appearanceLoading": "Only current language/current appearance GLB is requested initially; opposite appearance is loaded on change"
+}
